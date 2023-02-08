@@ -30,7 +30,9 @@ Wtyczki, które warto wgrać do obsługi. markdown
 ![BuCoLEgA79.png|700](https://img.aptekiprima.pl/nogo9/BuCoLEgA79.png/raw)
 
 ## Opis składni dla Markdown
+
 [Markdown – GitHub MarkDOWN, cheat sheet, link, table, image, ... - StormIT.pl 👽 👾 🤖](https://stormit.pl/markdown/)
+
 [Basic Syntax | Markdown Guide](https://www.markdownguide.org/basic-syntax/)
 
 ## Jak przesłać plik do repo
