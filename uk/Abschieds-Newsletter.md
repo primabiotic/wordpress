@@ -1,5 +1,5 @@
-Abschieds-Newsletter :(
+Farewell Newsletter  :(
 
-Deine E-Mail-Adresse wurde von unserer Mailingliste entfernt.
+Your email address has been removed from our mailing list.
 
-Du wirst keine Nachrichten mehr von uns erhalten.
+You will no longer receive messages from us.
