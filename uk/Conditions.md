@@ -1,4 +1,4 @@
-## AGB
+## Conditions
 
 General Terms and Conditions and Customer Information I. General Terms and Conditions
 § 1 Basic provisions
