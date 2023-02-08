@@ -1,111 +1,111 @@
 ## AGB
 
-Allgemeine Geschäftsbedingungen und Kundeninformationen I. Allgemeine Geschäftsbedingungen
-§ 1 Grundlegende Bestimmungen
+General Terms and Conditions and Customer Information I. General Terms and Conditions
+§ 1 Basic provisions
 
-(1) Die nachstehenden Geschäftsbedingungen gelten für Verträge, die Sie mit uns als Anbieter (Natur Bay GmbH) über die Internetseite https://primabiotic.de. Soweit nicht anders vereinbart, wird der Einbeziehung gegebenenfalls von Ihnen verwendeter eigener Bedingungen widersprochen.
+1) The following terms and conditions apply to contracts that you enter into with us as a provider (Natur Bay GmbH) via the website https://primabiotic.de. The customer's own conditions may not be included unless otherwise agreed.
 
-(2) Verbraucher im Sinne der nachstehenden Regelungen ist jede natürliche Person, die ein Rechtsgeschäft zu Zwecken abschließt, die überwiegend weder ihrer gewerblichen noch ihrer selbständigen beruflichen Tätigkeit zugerechnet werden kann. Unternehmer ist jede natürliche oder juristische Person oder eine rechtsfähige Personengesellschaft, die bei Abschluss eines Rechtsgeschäfts in Ausübung ihrer selbständigen beruflichen oder gewerblichen Tätigkeit handelt.
+(2) In accordance with the following provisions, a consumer is any natural person who enters into a legal transaction for purposes which cannot be predominantly attributed to either his commercial or  independent professional activity. An entrepreneur is any natural or legal entity or a partnership with legal capacity who, when concluding a legal transaction, acts in the exercise of his or her independent professional or commercial activity.
 
-2 Zustandekommen des Vertrages
-(1) Gegenstand des Vertrages ist der Verkauf von Waren .
-Unsere Angebote im Internet sind unverbindlich und kein verbindliches Angebot zum Abschluss eines Vertrages.
+2 Conclusion of the contract
+(1) The subject of the contract is selling goods.
+Our offers on the Internet are non-binding and not a binding offer to conclude a contract.
 
-(2) Sie können ein verbindliches Kaufangebot (Bestellung) über das Online-Warenkorbsystem abgeben.
-Dabei werden die zum Kauf beabsichtigten Waren im „Warenkorb" abgelegt. Über die entsprechende Schaltfläche in der Navigationsleiste können Sie den „Warenkorb" aufrufen und dort jederzeit Änderungen vornehmen. Nach Aufrufen der Seite „Kasse" und der Eingabe der persönlichen Daten sowie der Zahlungs- und Versandbedingungen werden abschließend nochmals alle Bestelldaten auf der Bestellübersichtsseite angezeigt.
-Vor Absenden der Bestellung haben Sie die Möglichkeit, die Angaben in der Bestellübersicht nochmals zu überprüfen, zu ändern (auch über die Funktion "zurück" des Internetbrowsers) bzw. die Bestellung abzubrechen.
-Mit dem Absenden der Bestellung über die Schaltfläche "zahlungspflichtig bestellen" geben Sie ein verbindliches Angebot bei uns ab.
-Sie erhalten zunächst eine automatische E-Mail über den Eingang Ihrer Bestellung, die noch nicht zum Vertragsschluss führt.
+(2) You can submit a binding purchase offer (order) via the online shopping cart system.
+Here, the goods meant for purchase are stored in the ‘Shopping cart’. You can use the respective button in the navigation bar to access the “shopping cart” and make changes at any time. After accessing the "checkout" page and entering the personal data and the payment and shipping conditions, all order data are finally displayed again on the order overview page.
+Before submitting the order, you have the option of changing or checking the details in the order overview again (also via the "back" function of the web browser), or cancelling the order.
+When the order is placed using the “place order with liability to pay” button, you submit a binding offer to us.
+You will first receive an automatic e-mail about the receipt of your order, which does not yet lead to the conclusion of the contract.
 
-(3) Die Annahme des Angebots (und damit der Vertragsabschluss) erfolgt innerhalb von 2 Tagen durch Bestätigung in Textform (z.B. E- Mail), in welcher Ihnen die Ausführung der Bestellung oder Auslieferung der Ware bestätigt wird (Auftragsbestätigung).
-Sollten Sie keine entsprechende Nachricht erhalten haben, sind Sie nicht mehr an Ihre Bestellung gebunden. Gegebenenfalls bereits erbrachte Leistungen werden in diesem Fall unverzüglich zurückerstattet.
+(3) The acceptance of the offer (and thus the conclusion of the contract) takes place within 2 days by confirmation in text form (e.g. e-mail), in which the execution of the order or delivery of the goods is confirmed to you (order confirmation).
+If you have not received such a message, you are no longer bound by your order. In this case, any services that have already been provided will be reimbursed without delay.
 
-(4) Die Abwicklung der Bestellung und Übermittlung aller im Zusammenhang mit dem Vertragsschluss erforderlichen Informationen erfolgt per E-Mail zum Teil automatisiert. Sie haben deshalb sicherzustellen, dass die von Ihnen bei uns hinterlegte E-Mail-Adresse zutreffend ist, der Empfang der E-Mails technisch sichergestellt und insbesondere nicht durch SPAM-Filter verhindert wird.
+(4) The order will be processed and all the necessary contract-related information will be sent by e-mail in a partially automated manner. Therefore, you are required to ensure that the e-mail address you have provided to us is correct, that the receipt of the e-mails is technically guaranteed and, in particular, that it is not prevented by SPAM filters.
 
-3 Besondere Vereinbarungen zu angebotenen Zahlungsarten
+3 Special agreements on payment methods offered
 
-(1) Zahlung über Klarna
+(1) Payment via Klarna
 
-In Zusammenarbeit mit Klarna Bank AB (publ), Sveavägen 46, 111 34 Stockholm, Schweden, bieten wir die folgenden Zahlungsoptionen an. Die Zahlung erfolgt jeweils an Klarna:
+In cooperation with Klarna Bank AB (publ), Sveavägen 46, 111 34 Stockholm, Sweden, we offer the following payment options. The payment is made to Klarna:
 
-Sofortüberweisung: Verfügbar in Deutschland und Österreich. Die Belastung Ihres Kontos erfolgt unmittelbar nach Abgabe der Bestellung.
+Instant bank transfer: Available in Germany and Austria. The charge will be processed immediately after placing the order.
 
-Lastschrift: Die Abbuchung erfolgt nach Versand der Ware. Der Zeitpunkt wird Ihnen per E-Mail mitgeteilt.
+Direct debit: The debit will be processed after the goods have been shipped. The time will be communicated to you by e-mail.
 
-Die Nutzung der Zahlungsarten Rechnung und/ oder Ratenkauf und/ oder Lastschrift setzt eine positive Bonitätsprüfung voraus. Insofern leiten wir Ihre Daten im Rahmen der Kaufanbahnung und Abwicklung des Kaufvertrages an Klarna zum Zwecke der Adress- und Bonitätsprüfung weiter. Bitte haben Sie Verständnis dafür, dass wir Ihnen nur diejenigen Zahlarten anbieten können, die aufgrund der Ergebnisse der Bonitätsprüfung zulässig sind.
+The use of the payment methods invoice and/or instalment purchase and/or direct debit requires a positive credit check. In this respect, we pass on your data to Klarna for the purposes of address and credit checks in the context of initiating the purchase and completing the purchase contract. Please understand that we can only offer you those payment methods which are permissible based on the results of the credit check.
 
-Weitere Informationen und Klarnas Nutzungsbedingungen finden Sie hier. Allgemeine Informationen zu Klarna erhalten Sie hier. Ihre Personenangaben werden von Klarna in Übereinstimmung mit den geltenden Datenschutzbestimmungen und entsprechend den Angaben in Klarnas Datenschutzbestimmungen behandelt.
+Further information and Klarna's terms of use can be found here. You can find general information about Klarna here. Your personal information will be processed by Klarna in accordance with applicable data protection laws and as set out in Klarna's Privacy Policy.
 
-Weitere Informationen über Klarna finden Sie hier. Die Klarna App finden Sie hier.
-§ 4 Zurückbehaltungsrecht, Eigentumsvorbehalt
-(1) Ein Zurückbehaltungsrecht können Sie nur ausüben, soweit es sich um Forderungen aus demselben Vertragsverhältnis handelt. (2) Die Ware bleibt bis zur vollständigen Zahlung des Kaufpreises unser Eigentum.
-§ 5 Gewährleistung
-(1) Es bestehen die gesetzlichen Mängelhaftungsrechte.
+You can find more information about Klarna here. You can find the Klarna app here.
+§ 4 Right of retention, reservation of title
+(1) You may only exercise a right of retention if it concerns claims from the same contractual relationship. (2) The goods remain our property until the purchase price has been paid in full.
+§ 5 Warranty
+(1) The statutory rights of liability for defects shall apply.
 
-(2) Als Verbraucher werden Sie gebeten, die Sache bei Lieferung umgehend auf Vollständigkeit, offensichtliche Mängel und Transportschäden zu überprüfen und uns sowie dem Spediteur Beanstandungen schnellstmöglich mitzuteilen. Kommen Sie dem nicht nach, hat dies keine Auswirkung auf Ihre gesetzlichen Gewährleistungsansprüche.
+(2) As a consumer, you are requested to check the item immediately upon delivery for completeness, obvious defects and transport damage and to notify us and the carrier of any complaints as soon as possible. Failure to do so will have no effect on your statutory warranty claims.
 
-6 Rechtswahl, Erfüllungsort, Gerichtsstand
+6 Choice of law and proper venue, place of fulfilment, place of jurisdiction
 
-(1) Es gilt deutsches Recht. Bei Verbrauchern gilt diese Rechtswahl nur, soweit hierdurch der durch zwingende Bestimmungen des Rechts des Staates des gewöhnlichen Aufenthaltes des Verbrauchers gewährte Schutz nicht entzogen wird (Günstigkeitsprinzip).
+(1) German law shall apply. This choice of law and proper venue only applies to customers if it does not result in the revocation of the protection guaranteed by the mandatory provisions of the law of the country in which the respective customer’s usual place of residence is located (benefit-of-the-doubt principle).
 
-(2) Erfüllungsort für alle Leistungen aus den mit uns bestehenden Geschäftsbeziehungen sowie Gerichtsstand ist unser Sitz, soweit Sie nicht Verbraucher, sondern Kaufmann, juristische Person des öffentlichen Rechts oder öffentlich-rechtliches Sondervermögen
-sind. Dasselbe gilt, wenn Sie keinen allgemeinen Gerichtsstand in Deutschland oder der EU haben oder der Wohnsitz oder gewöhnliche Aufenthalt im Zeitpunkt der Klageerhebung nicht bekannt ist. Die Befugnis, auch das Gericht an einem anderen gesetzlichen Gerichtsstand anzurufen, bleibt hiervon unberührt.
+(2) The place of fulfilment for all services arising from the business relations with us and the place of jurisdiction shall be our registered office if you are not a consumer but a merchant, a legal entity or a special fund under public law.
+The same condition applies to situations in which you are not associated with a general place of jurisdiction in Germany or the EU, as well as situations in which the place of residence or the usual place of residence is not known at the time of commencing proceedings. The right to initiate legal proceedings at another statutory place of jurisdiction shall remain unaffected by this.
 
-(3) Die Bestimmungen des UN-Kaufrechts finden ausdrücklich keine Anwendung.
+(3) The provisions of the UN Convention on Contracts for the International Sale of Goods shall expressly not apply.
 
-Kundeninformationen
+Customer information
 
-Identität des Verkäufers
+Identity of the seller
 
 Natur Bay GmbH
-diese vertr. d. d. Geschäftsführer Natalia Kalka 
+drepresented by the Managing Director Natalia Kalka a 
 Wirtsleiten 5, Walkertshofen
 84091 Attenhofen
-Deutschland
+Germany
 E-Mail: kontakt@naturbay.de
 
-Alternative Streitbeilegung:
+Alternative Dispute Resolution:
 
-Die Europäische Kommission stellt eine Plattform für die außergerichtliche Online-Streitbeilegung (OS-Plattform) bereit, aufrufbar unter https://ec.europa.eu/odr.
+The European Commission provides a platform for the out-of-court settlement of disputes online (ODR platform), which can be accessed at  https://ec.europa.eu/odr.
 
-Informationen zum Zustandekommen des Vertrages
+Legal questions about concluding the contract
 
-Die technischen Schritte zum Vertragsschluss, der Vertragsschluss selbst und die Korrekturmöglichkeiten erfolgen nach Maßgabe der Regelungen "Zustandekommen des Vertrages" unserer Allgemeinen Geschäftsbedingungen (Teil I.).
+The technical steps for the conclusion of the contract, the conclusion of the contract itself and the possibilities of correction are carried out in accordance with the regulations "Conclusion of the Contract" of our General Terms and Conditions (Part I.).
 
-Vertragssprache, Vertragstextspeicherung
+Contract language, storage of the contract text
 
-3.1. Vertragssprache ist deutsch .
+3.1 The contractual language is German.
 
-3.2. Der vollständige Vertragstext wird von uns nicht gespeichert. Vor Absenden der Bestellung über das Online - Warenkorbsystem können die Vertragsdaten über die Druckfunktion des Browsers ausgedruckt oder elektronisch gesichert werden. Nach Zugang der
+3.2 We do not store the complete wording of the contract. Before sending the order via the online shopping cart system, the contract data can be printed out or electronically saved using the browser’s print function. 
 
-Bestellung bei uns werden die Bestelldaten, die gesetzlich vorgeschriebenen Informationen bei Fernabsatzverträgen und die Allgemeinen Geschäftsbedingungen nochmals per E-Mail an Sie übersandt.
+After you place an order with us, the order data, the legally required information for mail order sales and the General Terms and Conditions will be sent to you again by e-mail.
 
-Wesentliche Merkmale der Ware oder Dienstleistung
+Key characteristics of the goods or service
 
-Die wesentlichen Merkmale der Ware und/oder Dienstleistung finden sich im jeweiligen Angebot.
+The essential characteristics of the goods and/or services can be found in the respective offer.
 
-Preise und Zahlungsmodalitäten
+Prices and payment methods
 
-5.1. Die in den jeweiligen Angeboten angeführten Preise sowie die Versandkosten stellen Gesamtpreise dar. Sie beinhalten alle Preisbestandteile einschließlich aller anfallenden Steuern.
+5.1. The prices mentioned in the respective offers represent total prices, as do the shipping costs. They include all the price components, including all the incidental taxes.
 
-5.2. Die anfallenden Versandkosten sind nicht im Kaufpreis enthalten. Sie sind über eine entsprechend bezeichnete Schaltfläche auf unserer Internetpräsenz oder im jeweiligen Angebot aufrufbar, werden im Laufe des Bestellvorganges gesondert ausgewiesen und sind von Ihnen zusätzlich zu tragen, soweit nicht die versandkostenfreie Lieferung zugesagt ist.
+5.2. The shipping costs incurred are not included in the purchase price. They are accessed via a correspondingly designated button on our website or in the respective offer, are reported separately during the order process and, in addition, are payable by you unless delivery is offered free of charge.
 
-5.3. Erfolgt die Lieferung in Länder außerhalb der Europäischen Union können von uns nicht zu vertretende weitere Kosten anfallen, wie z.B. Zölle, Steuern oder Geldübermittlungsgebühren (Überweisungs- oder Wechselkursgebühren der Kreditinstitute), die von Ihnen zu tragen sind.
+5.3. If the delivery is made to countries outside the European Union, further costs may be incurred for which we are not responsible, such as customs duties, taxes or money transfer fees (transfer or exchange rate fees of credit institutions), which are to be borne by you.
 
-5.4. Entstandene Kosten der Geldübermittlung (Überweisungs- oder Wechselkursgebühren der Kreditinstitute) sind von Ihnen in den Fällen zu tragen, in denen die Lieferung in einen EU-Mitgliedsstaat erfolgt, die Zahlung aber außerhalb der Europäischen Union veranlasst wurde.
+5.4. Any costs incurred for the transfer of money (transfer fees or exchange rate fees of credit institutions) shall be borne by you in cases where the delivery is made to an EU member state but the payment was initiated outside the European Union.
 
-5.5. Die Ihnen zur Verfügung stehenden Zahlungsarten sind unter einer entsprechend bezeichneten Schaltfläche auf unserer Internetpräsenz oder im jeweiligen Angebot ausgewiesen.
+5.5. The payment methods available to you are shown under a correspondingly designated button on our website or in the respective offer.
 
-5.6. Soweit bei den einzelnen Zahlungsarten nicht anders angegeben, sind die Zahlungsansprüche aus dem geschlossenen Vertrag sofort zur Zahlung fällig.
+5.6. Unless otherwise stated in the individual payment methods, the payment claims arising from the concluded contract are due for payment immediately.
 
-Lieferbedingungen
+Terms of delivery
 
-6.1. Die Lieferbedingungen, der Liefertermin sowie gegebenenfalls bestehende Lieferbeschränkungen finden sich unter einer entsprechend bezeichneten Schaltfläche auf unserer Internetpräsenz oder im jeweiligen Angebot.
+6.1. The terms of delivery, the delivery date and, if applicable, existing delivery restrictions can be found under a correspondingly designated button on our website or in the respective offer.
 
-6.2. Soweit Sie Verbraucher sind ist gesetzlich geregelt, dass die Gefahr des zufälligen Untergangs und der zufälligen Verschlechterung der verkauften Sache während der Versendung erst mit der Übergabe der Ware an Sie übergeht, unabhängig davon, ob die Versendung versichert oder unversichert erfolgt. Dies gilt nicht, wenn Sie eigenständig ein nicht vom Unternehmer benanntes Transportunternehmen oder eine sonst zur Ausführung der Versendung bestimmte Person beauftragt haben.
+6.2.If you are a consumer, the following is statutorily regulated: The risk of the sold item accidentally being destroyed or degraded during shipping only passes over to you when the item in question is delivered. This condition does not apply if you have independently commissioned a transport company that has not been specified by us, or a person who has otherwise been appointed to execute the shipping operation.
 
-Gesetzliches Mängelhaftungsrecht
+Statutory liability for defects
 
-Die Mängelhaftung richtet sich nach der Regelung "Gewährleistung" in unseren Allgemeinen Geschäftsbedingungen (Teil I).
+Liability for defects is governed by the "Warranty" provision in our General Terms and Conditions (Part I).
 
-Diese AGB und Kundeninformationen wurden von den auf IT-Recht spezialisierten Juristen des Händlerbundes erstellt und werden permanent auf Rechtskonformität geprüft. Die Händlerbund Management AG garantiert für die Rechtssicherheit der Texte und haftet im Falle von Abmahnungen. Nähere Informationen dazu finden Sie unter: https://www.haendlerbund.de/de/leistungen/rechtssicherheit/agb- service.
+These SBTs and customer details were created by lawyers specialising in IT law who work for the Händlerbund [e-commerce association], and are constantly checked for legal conformity. Händlerbund Management AG guarantees the legal security of the texts and is liable in case of warnings. For more information, please visit: https://www.haendlerbund.de/de/leistungen/rechtssicherheit/agb- service.
