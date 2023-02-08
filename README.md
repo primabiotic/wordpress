@@ -9,7 +9,7 @@ Po odpaleniu programu logujemy się na przekazanych danych
 
 Po poprawnym zalogowaniu powinniśmy widzieć coś takiego
 
-![WUVOVoRe56.png|700](https://img.aptekiprima.pl/nogo9/WUVOVoRe56.png/raw =700x)
+![WUVOVoRe56.png|700](https://img.aptekiprima.pl/nogo9/WUVOVoRe56.png/raw)
 
 Za pomocą przycisku `Fitch origin` Synchronizujemy to, co jest na serwerze z tym, co jest na komputerze. Zawsze, kiedy odpalam program naciskam ten przycisk, aby pobrało mi się z serwera na komputer aktualna wersja repo.
 
@@ -25,9 +25,9 @@ https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user
 
 Wtyczki, które warto wgrać do obsługi. markdown
 
-![tiQiseje12.png|700](https://img.aptekiprima.pl/nogo9/tiQiseje12.png/raw =700x)
+![tiQiseje12.png|700](https://img.aptekiprima.pl/nogo9/tiQiseje12.png/raw)
 
-![BuCoLEgA79.png|700](https://img.aptekiprima.pl/nogo9/BuCoLEgA79.png/raw =700x)
+![BuCoLEgA79.png|700](https://img.aptekiprima.pl/nogo9/BuCoLEgA79.png/raw)
 
 ## Opis składni dla Markdown
 [Markdown – GitHub MarkDOWN, cheat sheet, link, table, image, ... - StormIT.pl 👽 👾 🤖](https://stormit.pl/markdown/)
@@ -37,14 +37,14 @@ Wtyczki, które warto wgrać do obsługi. markdown
 
 Jeżeli dokonamy zmian w plikach w skazanym wcześniej folderze w moim przypadku jest to ścieżka `C:\Users\Jarek_IT\OneDrive\GitHub\wordpress` GitHub Desktop to wykryje i wyświetli to mniej więcej w taki sposób
 
-![qiJElafu92.png|700](https://img.aptekiprima.pl/nogo9/qiJElafu92.png/raw =700x)
+![qiJElafu92.png|700](https://img.aptekiprima.pl/nogo9/qiJElafu92.png/raw)
 
 Aby dokonać przesłania tych plików na serwer Github należy wpisać jakiś komentarz do zmiany i nacisnąć przycisk. `Commit to main`
 
-![yUpiRoDo73.png|700](https://img.aptekiprima.pl/nogo9/yUpiRoDo73.png/raw =700x)
+![yUpiRoDo73.png|700](https://img.aptekiprima.pl/nogo9/yUpiRoDo73.png/raw)
 
 Następnie jeszcze trzeba nacisnąć przycisk. `Push Orgin`
 
-![XuYuBiHi15.png|700](https://img.aptekiprima.pl/nogo9/XuYuBiHi15.png/raw =700x)
+![XuYuBiHi15.png|700](https://img.aptekiprima.pl/nogo9/XuYuBiHi15.png/raw)
 
 Po naciśnięciu tego przycisku efekt będzie od razu widoczny na stronie.
