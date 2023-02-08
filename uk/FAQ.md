@@ -1,14 +1,14 @@
 ## FAQ
 
-1. Ist der Versand immer kostenlos?
+1. Is shipping always free of charge?
 
-Der Versand innehalb Deutschlands ist immer kostenfrei.
+Shipping within Germany is always free of charge.
 
-2. Ist es möglich, ins Ausland zu versenden?
+2.	Is it possible to ship abroad?
 
-Ja, es ist möglich ins Ausland zu versenden.
+Yes, it is possible to ship abroad.
 
-3. Wie hoch sind die Versandkosten außerhalb Deutschlands?
+3. 3.	What are the shipping costs outside Germany?
 
-Für die Lieferung in folgende EU-Länder berechnen wir 12.99 EUR / Paket. 
-Ab einer Bestellung von 99.00 übernehmen wir den Versand.
+For delivery to the following EU countries, we charge 12.99 EUR / package.
+For orders of 99.00 or higher, shipping is free of charge.
