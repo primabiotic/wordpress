@@ -1,3 +1,0 @@
-## Cookie-Einstellungen
-
-Auf unserer Website setzen wir Cookies ein. Einige von Ihnen sind für den ordnungsgemäßen Betrieb unserer Website erforderlich. Andere sollen uns helfen unsere Website zu optimieren und wirtschaftlich zu betreiben. Sie können dies akzeptieren, indem Sie nachfolgend den Button „Ich akzeptiere alle Cookies“ anklicken oder ablehnen, indem sie nachfolgend den Button „Nur technisch notwendige Cookies akzeptieren“ anklicken.
