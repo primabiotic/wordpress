@@ -1,7 +1,7 @@
-## Bestätige Deine Anmeldung
+## Confirm your registration
 
-Wir müssen Deine E-Mailadresse bestätigen, um den Anmeldungsprozess abzuschließen.
+We need to confirm your email address to complete the registration process.
 
-Klicke bitte auf den Link in der E-Mail, die wir Dir gerade gesendet haben. 
+Please click on the link in the email we just sent you. 
 
-Du wirst nicht angemeldet, wenn Du nicht auf Anmeldungslink klickst.
+You will not be registered until you click on the registration link.
