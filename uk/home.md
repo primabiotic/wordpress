@@ -15,7 +15,9 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"style":{"typography":{"fontSize":"25px"}}} -->
-<p style="font-size:25px">Dies ist ein natürliches Ergänzungsmittel, das Dir hilft, Deine Ausstrahlung zu verbessern und Deine Jugend länger zu bewahren. Wir empfehlen es Frauen sowie Senioren und Menschen, die ein aktives Leben führen. <br>Die ersten Wirkungen zeigen sich bereits nach einem Monat, deutliche Ergebnisse darfst Du nach 3 Monaten regelmäßiger Anwendung erwarten.</p>
+<p style="font-size:25px">This is a natural supplement that helps you improve your radiance and preserve your youth longer. We recommend it to women as well as seniors and people who lead an active life. 
+The first effects can already be seen after one month, and you can expect clear results after 3 months of regular use.
+</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:spacer {"height":"45px"} -->
@@ -43,11 +45,16 @@
 <!-- /wp:columns -->
 
 <!-- wp:paragraph {"fontSize":"medium"} -->
-<p class="has-medium-font-size">Kollagen ist das wichtigste Protein im menschlichen Körper. Sein Gehalt im Körper beginnt etwa nach dem 25. Lebensjahr zu sinken. Weiterhin können Stress, äußere Einflüsse <br>oder eine schlechte Ernährung die Produktion stören. Was dann?</p>
+<p class="has-medium-font-size">Collagen is the most important protein in the human body. Its content in the body begins to decline around the age of 25. Furthermore, stress, external influences
+or a poor diet can disrupt production. What then?
+</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"fontSize":"medium"} -->
-<p class="has-medium-font-size">Die orale Zufuhr von flüssigem Collagen - zu 95 Prozent von Deinem Körper resorbierbar - <br>hilft Dir, Deine Schönheit und Vitalität langfristig zu erhalten. Vollkommen natürlich <br>und im Einklang mit der Natur - dafür stehen wir von Primabiotic!</p>
+<p class="has-medium-font-size">The oral supply of liquid collagen - 95 percent absorbable by your body -
+helps you maintain your beauty and vitality in the long run. Completely natural
+and in harmony with nature - that is what we at Primabiotic stand for!
+</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:spacer {"height":"50px"} -->
@@ -73,7 +80,7 @@
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center">Bis 10&nbsp;000 mg <br>in einem Fläschen</p>
+<p class="has-text-align-center">Up to 10&nbsp;000 mg <br>in one vial</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
@@ -83,7 +90,7 @@
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center">Nur 47 kcal <br>pro Portion</p>
+<p class="has-text-align-center">Only 47 kcal <br>per serving</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
@@ -93,7 +100,7 @@
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center">Ohne Zuckerzusatz <br>und Konservierungsstoffe</p>
+<p class="has-text-align-center">Without added sugar <br>and preservativese</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
@@ -103,7 +110,7 @@
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center">Bioverfügbarkeit <br>bis 95 %</p>
+<p class="has-text-align-center">Bioavailability <br>up to 95 %</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
@@ -113,7 +120,7 @@
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center">Mit Zusatz <br>von 12 Vitaminen</p>
+<p class="has-text-align-center">With the addition <br>of 12 vitamins</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -123,26 +130,26 @@
 <!-- /wp:spacer -->
 
 <!-- wp:heading {"textAlign":"center","style":{"typography":{"fontStyle":"normal","fontWeight":"300"}}} -->
-<h2 class="has-text-align-center" style="font-style:normal;font-weight:300">Die Effekte sprechen für sich:</h2>
+<h2 class="has-text-align-center" style="font-style:normal;font-weight:300">The effects speak for themselves:</h2>
 <!-- /wp:heading -->
 
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column {"fontSize":"medium"} -->
 <div class="wp-block-column has-medium-font-size"><!-- wp:list -->
 <ul><!-- wp:list-item -->
-<li>weniger Falten</li>
+<li>less wrinkles</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>glatte und straffe Haut</li>
+<li>smooth and firm skin</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>reduzierte Cellulite</li>
+<li>reduced cellulite</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>weniger sichtbare Dehnungsstreifen</li>
+<li>less visible stretch marks</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list --></div>
 <!-- /wp:column -->
@@ -150,19 +157,19 @@
 <!-- wp:column {"fontSize":"medium"} -->
 <div class="wp-block-column has-medium-font-size"><!-- wp:list -->
 <ul><!-- wp:list-item -->
-<li>Reduzierung der Hyperpigmentierung</li>
+<li>reduction of hyperpigmentation</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>kräftiges und glänzendes Haar</li>
+<li>strong and shiny hair</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>mehr Energie</li>
+<li>more energy</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>stärkere Immunität</li>
+<li>stronger immunity</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list --></div>
 <!-- /wp:column -->
@@ -170,19 +177,19 @@
 <!-- wp:column {"fontSize":"medium"} -->
 <div class="wp-block-column has-medium-font-size"><!-- wp:list -->
 <ul><!-- wp:list-item -->
-<li>harte Nägel</li>
+<li>hard nails</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>verbesserte Gelenkfunktion</li>
+<li>improved joint function</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>starke Bänder und Sehnen</li>
+<li>strong ligaments and tendons</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>gesunde Knochen</li>
+<li>healthy bones</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list --></div>
 <!-- /wp:column --></div>
