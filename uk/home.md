@@ -1,23 +1,20 @@
-# Homepage
-
-<!-- wp:image {"align":"wide","id":1949,"sizeSlug":"full","linkDestination":"custom","className":"main-desktop-banner"} -->
-<figure class="wp-block-image alignwide size-full main-desktop-banner"><a href="https://primabiotic.de/produkt/primabiotic-collagen-x30/"><img src="https://primabiotic.de/wp-content/uploads/2022/12/banner-1280x550-1.png" alt="" class="wp-image-1949"/></a></figure>
+<!-- wp:image {"align":"wide","id":4602,"sizeSlug":"full","linkDestination":"custom","className":"main-desktop-banner"} -->
+<figure class="wp-block-image alignwide size-full main-desktop-banner"><a href="https://primabiotic.de/produkt/primabiotic-collagen-x30/"><img src="https://primabiotic.de/wp-content/uploads/2023/02/banner-1280x550_collagen.png" alt="" class="wp-image-4602"/></a></figure>
 <!-- /wp:image -->
 
-<!-- wp:image {"align":"wide","id":1951,"sizeSlug":"full","linkDestination":"custom","className":"main-mobile-banner"} -->
-<figure class="wp-block-image alignwide size-full main-mobile-banner"><a href="https://primabiotic.de/produkt/primabiotic-collagen-x30/"><img src="https://primabiotic.de/wp-content/uploads/2022/12/banner-686x556-3.png" alt="" class="wp-image-1951"/></a></figure>
+<!-- wp:image {"align":"wide","id":4604,"sizeSlug":"full","linkDestination":"custom","className":"main-mobile-banner"} -->
+<figure class="wp-block-image alignwide size-full main-mobile-banner"><a href="https://primabiotic.de/produkt/primabiotic-collagen-x30/"><img src="https://primabiotic.de/wp-content/uploads/2023/02/banner-686x556_collagen.png" alt="" class="wp-image-4604"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:columns {"align":"wide","className":"second-main-section"} -->
 <div class="wp-block-columns alignwide second-main-section"><!-- wp:column {"width":"60%"} -->
 <div class="wp-block-column" style="flex-basis:60%"><!-- wp:heading {"level":1} -->
-<h1> Primabiotic Collagen</h1>
+<h1>Primabiotic Collagen</h1>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"style":{"typography":{"fontSize":"25px"}}} -->
 <p style="font-size:25px">This is a natural supplement that helps you improve your radiance and preserve your youth longer. We recommend it to women as well as seniors and people who lead an active life. 
-The first effects can already be seen after one month, and you can expect clear results after 3 months of regular use.
-</p>
+The first effects can already be seen after one month, and you can expect clear results after 3 months of regular use.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:spacer {"height":"45px"} -->
@@ -46,32 +43,30 @@ The first effects can already be seen after one month, and you can expect clear 
 
 <!-- wp:paragraph {"fontSize":"medium"} -->
 <p class="has-medium-font-size">Collagen is the most important protein in the human body. Its content in the body begins to decline around the age of 25. Furthermore, stress, external influences
-or a poor diet can disrupt production. What then?
-</p>
+or a poor diet can disrupt production. What then?</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"fontSize":"medium"} -->
 <p class="has-medium-font-size">The oral supply of liquid collagen - 95 percent absorbable by your body -
 helps you maintain your beauty and vitality in the long run. Completely natural
-and in harmony with nature - that is what we at Primabiotic stand for!
-</p>
+and in harmony with nature - that is what we at Primabiotic stand for!</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:spacer {"height":"50px"} -->
-<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":5221,"sizeSlug":"full","linkDestination":"custom","className":"main-desktop-banner"} -->
+<figure class="wp-block-image size-full main-desktop-banner"><a href="https://primabiotic.de/produkt/primabiotic-collagen-60-flaschchen-zum-valentinstag-2023-mega-angebot/"><img src="https://primabiotic.de/wp-content/uploads/2023/02/primabiotic-d.jpg" alt="collagen" class="wp-image-5221"/></a></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
 
-<!-- wp:image {"align":"center","id":4318,"sizeSlug":"full","linkDestination":"custom","className":"main-desktop-banner"} -->
-<figure class="wp-block-image aligncenter size-full main-desktop-banner"><a href="https://primabiotic.de/produkt/primabiotic-collagen-60-flaschen-januar-2023-mega-angebot/"><img src="https://primabiotic.de/wp-content/uploads/2023/01/Primabiotic_reklama_1280x550.png" alt="" class="wp-image-4318"/></a></figure>
-<!-- /wp:image -->
-
-<!-- wp:image {"align":"center","id":4319,"sizeSlug":"full","linkDestination":"custom","className":"main-mobile-banner"} -->
-<figure class="wp-block-image aligncenter size-full main-mobile-banner"><a href="https://primabiotic.de/produkt/primabiotic-collagen-60-flaschen-januar-2023-mega-angebot/"><img src="https://primabiotic.de/wp-content/uploads/2023/01/banner-686x556-promka.jpg" alt="" class="wp-image-4319"/></a></figure>
-<!-- /wp:image -->
-
-<!-- wp:spacer {"height":"50px"} -->
-<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":5222,"sizeSlug":"large","linkDestination":"custom","className":"main-mobile-banner"} -->
+<figure class="wp-block-image size-large main-mobile-banner"><a href="https://primabiotic.de/produkt/primabiotic-collagen-60-flaschchen-zum-valentinstag-2023-mega-angebot/"><img src="https://primabiotic.de/wp-content/uploads/2023/02/primabiotic-m-1024x833.jpg" alt="collagen" class="wp-image-5222"/></a></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
 
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
@@ -125,6 +120,20 @@ and in harmony with nature - that is what we at Primabiotic stand for!
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
 
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:video {"id":5189} -->
+<figure class="wp-block-video"><video autoplay controls loop src="https://primabiotic.de/wp-content/uploads/2023/02/Primabiotic-niemiecki-kwadrat.mp4"></video></figure>
+<!-- /wp:video --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:video {"id":5192} -->
+<figure class="wp-block-video"><video autoplay controls loop src="https://primabiotic.de/wp-content/uploads/2023/02/Prinabiotic-produktowy-kwadrat-niemiecki.mp4"></video></figure>
+<!-- /wp:video --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
 <!-- wp:spacer {"height":"50px"} -->
 <div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
@@ -157,19 +166,19 @@ and in harmony with nature - that is what we at Primabiotic stand for!
 <!-- wp:column {"fontSize":"medium"} -->
 <div class="wp-block-column has-medium-font-size"><!-- wp:list -->
 <ul><!-- wp:list-item -->
-<li>reduction of hyperpigmentation</li>
+<li>Reduction of hyperpigmentation</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>strong and shiny hair</li>
+<li>kräftiges und glänzendes Haar</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>more energy</li>
+<li>mehr Energie</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>stronger immunity</li>
+<li>stärkere Immunität</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list --></div>
 <!-- /wp:column -->
@@ -177,26 +186,26 @@ and in harmony with nature - that is what we at Primabiotic stand for!
 <!-- wp:column {"fontSize":"medium"} -->
 <div class="wp-block-column has-medium-font-size"><!-- wp:list -->
 <ul><!-- wp:list-item -->
-<li>hard nails</li>
+<li>harte Nägel</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>improved joint function</li>
+<li>Improved joint function</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>strong ligaments and tendons</li>
+<li>Strong ligaments and tendons</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>healthy bones</li>
+<li>Healthy bones</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
 
-<!-- wp:image {"align":"wide","id":1937,"sizeSlug":"full","linkDestination":"custom","className":"last-main-img-desktop"} -->
-<figure class="wp-block-image alignwide size-full last-main-img-desktop"><a href="https://primabiotic.de/produkt/primabiotic-collagen-x30/"><img src="https://primabiotic.de/wp-content/uploads/2022/12/banner-collagen-na-kamieniu-1.jpg" alt="" class="wp-image-1937"/></a></figure>
+<!-- wp:image {"align":"wide","id":5163,"sizeSlug":"full","linkDestination":"custom","className":"last-main-img-desktop"} -->
+<figure class="wp-block-image alignwide size-full last-main-img-desktop"><img src="https://primabiotic.de/wp-content/uploads/2023/02/banner-collagen-na-kamieniu.jpg" alt="" class="wp-image-5163"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"align":"wide","id":1945,"sizeSlug":"full","linkDestination":"custom","className":"last-main-img-mobile"} -->
