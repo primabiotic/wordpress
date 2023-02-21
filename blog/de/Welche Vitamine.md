@@ -1,8 +1,6 @@
 ---
 title: Welche Vitamine sind für starke Nägel geeignet? Wie ergänze ich richtig?
 comment_status: closed
-category:
-– Blog
 post_date: 2023-02-20 08:00:00
 ---
 
@@ -19,7 +17,9 @@ post_date: 2023-02-20 08:00:00
 <!-- /wp:paragraph -->
 
 <!-- wp:shortcode -->
+
 [product id="50"]
+
 <!-- /wp:shortcode -->
 
 <!-- wp:paragraph -->
@@ -127,5 +127,7 @@ post_date: 2023-02-20 08:00:00
 <!-- /wp:paragraph -->
 
 <!-- wp:shortcode -->
+
 [product id="50"]
+
 <!-- /wp:shortcode -->
