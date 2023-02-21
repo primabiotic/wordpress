@@ -1,3 +1,9 @@
+---
+title: Welche Vitamine sind für starke Nägel geeignet? Wie ergänze ich richtig?
+comment_status: closed
+post_date: 2023-02-21 20:14:59
+---
+
 <!-- wp:paragraph -->
 <p>Starke und schöne Nägel sind die Visitenkarte eines jeden von uns. Sie&nbsp;sind auch ein wichtiger Indikator für unsere Gesundheit. Was tun, um Risse, Sprödigkeit und Brüchigkeit der Nagelplatte zu vermeiden? Lies Sie unbedingt weiter - Informationen zu diesem Thema hat unsere Ernährungsberaterin zusammengestellt!</p>
 <!-- /wp:paragraph -->
