@@ -15,10 +15,13 @@ Sie haben das Recht, binnen 14 Tagen ohne Angabe von Gründen diesen Vertrag zu 
 - an dem Sie oder ein von Ihnen benannter Dritter, der nicht der Beförderer ist, die letzte Ware in Besitz genommen haben bzw. hat, sofern Sie mehrere Waren im Rahmen einer einheitlichen Bestellung bestellt haben und diese getrennt geliefert werden; 
 
 Um Ihr Widerrufsrecht auszuüben, müssen Sie uns 
-(Natur Bay GmbH, 
-Baurstr., 82, 22607 Hamburg, 
-Telefonnr.: 04088915747, 
-E-Mail- Adresse: bestellung@naturbay.de) 
+
+Natur Bay GmbH
+diese vertr. d. d. Geschäftsführer Natalia Kalka 
+Wirtsleiten 5, Walkertshofen
+84091 Attenhofen
+Deutschland
+E-Mail: kontakt@naturbay.de
 
 mittels einer eindeutigen Erklärung (z.B. ein mit der Post versandter Brief, Telefax oder E-Mail) über Ihren Entschluss, diesen Vertrag zu widerrufen, informieren. Sie können dafür das beigefügte Muster-Widerrufsformular verwenden, das jedoch nicht vorgeschrieben ist. 
 
