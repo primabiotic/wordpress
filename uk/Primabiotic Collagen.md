@@ -11,7 +11,7 @@ post_date: 2023-02-20 08:00:00
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"25px"}}} -->
-<p class="has-text-align-center" style="font-size:25px">Bis 10&nbsp;000 mg <br>in einem Fläschchen</p>
+<p class="has-text-align-center" style="font-size:25px">Up to 10 000 mg <br>in one vial</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
@@ -21,7 +21,7 @@ post_date: 2023-02-20 08:00:00
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"25px"}}} -->
-<p class="has-text-align-center" style="font-size:25px">100 % natürliches Produkt</p>
+<p class="has-text-align-center" style="font-size:25px">100% natural product</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
@@ -31,7 +31,7 @@ post_date: 2023-02-20 08:00:00
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"25px"}}} -->
-<p class="has-text-align-center" style="font-size:25px">Nur 47 kcal <br>pro Portion</p>
+<p class="has-text-align-center" style="font-size:25px">Only 47 kcal <br>per serving</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -43,7 +43,7 @@ post_date: 2023-02-20 08:00:00
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"25px"}}} -->
-<p class="has-text-align-center" style="font-size:25px">Bioverfügbarkeit <br>bis 95 %</p>
+<p class="has-text-align-center" style="font-size:25px">Bioavailability <br>up to 95%</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
@@ -53,7 +53,7 @@ post_date: 2023-02-20 08:00:00
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"25px"}}} -->
-<p class="has-text-align-center" style="font-size:25px">Ohne Zuckerzusatz und Konservierungsstoffe</p>
+<p class="has-text-align-center" style="font-size:25px">Without added sugar and preservatives</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
@@ -63,7 +63,7 @@ post_date: 2023-02-20 08:00:00
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"25px"}}} -->
-<p class="has-text-align-center" style="font-size:25px">Mit Zusatz <br>von 12 Vitaminen</p>
+<p class="has-text-align-center" style="font-size:25px">With the addition <br>of 12 vitamins</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -75,7 +75,7 @@ post_date: 2023-02-20 08:00:00
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"25px"}}} -->
-<p class="has-text-align-center" style="font-size:25px">Praktische Verabreichungsform- Shots</p>
+<p class="has-text-align-center" style="font-size:25px">Convenient dosage form- Shots</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
@@ -85,7 +85,7 @@ post_date: 2023-02-20 08:00:00
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"25px"}}} -->
-<p class="has-text-align-center" style="font-size:25px">Fruchtiger Geschmack</p>
+<p class="has-text-align-center" style="font-size:25px">Fruity taste</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
@@ -95,169 +95,169 @@ post_date: 2023-02-20 08:00:00
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"25px"}}} -->
-<p class="has-text-align-center" style="font-size:25px">Umweltfreundliche Verpackung</p>
+<p class="has-text-align-center" style="font-size:25px">Eco-friendly packaging</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
 
 <!-- wp:heading -->
-<h2>Warum Primabiotic Collagen?</h2>
+<h2>Why Primabiotic Collagen?</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Mit der Bioverfügbarkeit von 95% und der hohen Konzentration von 10.000mg/Portion sind wir einzigartig!</p>
+<p>With the bioavailability of 95% and the high concentration of 10,000 mg/serving, we are unique!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Überzeuge Dich selbst von der spürbaren Wirkung!</p>
+<p>See the noticeable effect for yourself!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
-<h2>Wann ist Primabiotic Collagen die ideale Ergänzung für Sie?</h2>
+<h2>When is Primabiotic Collagen the ideal supplement for you?</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>- Du spürst die Auswirkungen des Kollagenmangels wie schwächeres Haar und schwächere Nägel, mehr Falten, Gelenk-, Knochen- und Muskelschmerzen, Cellulite, gestörte Wundheilung.</p>
+<p>- You notice the effects of collagen deficiency such as weaker hair and nails, more wrinkles, joint, bone and muscle pain, cellulite, impaired wound healing.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>- Du möchtest für deine Gesundheit sorgen und für die Erhaltung eines jungen Aussehens</p>
+<p>- You want to take care of your health and maintain a young appearance.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>- Du bevorzugst ein Kollagen mit natürlichem Geschmack zu trinken, statt Tabletten oder Pulver einzunehmen.</p>
+<p>- You prefer natural flavored collagen in liquid form rather than taking pills or powder.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
-<h2>Primabiotic Collagen - Erfahrungen</h2>
+<h2>Primabiotic Collagen - Experiences</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Es gibt viele Kollagene auf dem Markt. Woher weiß man, welches Präparat die beste Wirkung erzeugt? Die Meinungen der KundInnen, die auf unabhängigen Portalen können Ihnen dabei helfen sich eine Meinung zu bilden.</p>
+<p>There are many collagens on the market. How do you know which which one produces the best effect? The opinions of customers on independent portals can help you form an opinion.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Erfahrungsberichte:</p>
+<p>Customer reviews:</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>„Nach einem Monat der Anwendung kann ich sagen, dass meine Knie nicht mehr schmerzen, der Zustand meiner Haare sich verbessert hat und meine Nägel stärker sind. Ich empfehle es sehr.“</p>
+<p>&quot;After one month of use, I can say that my knees no longer hurt, the condition of my hair has improved and my nails are stronger. I highly recommend it.&quot;</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Kathrin E., Mutter</p>
+<p>Kathrin E., mother</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>„Ich habe eine deutliche Reduzierung der Cellulite, eine Verbesserung des Hautbilds und eine schnellere Erholung nach dem Training festgestellt.“</p>
+<p>&quot;I have noticed a significant reduction in cellulite, an improvement in the appearance of my skin and a faster recovery after exercise.&quot;</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Ola Z., Fitnesstrainerin</p>
+<p>Ola Z., fitness trainer</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>„Primabiotic Collagen ist das beste Collagenpräparat, das ich bis jetzt probieren durfte. Zudem schmeckt es so, so lecker nach Pfirsich. Ich liebe es!“</p>
+<p>&quot;Primabiotic Collagen is the best collagen supplement I have had the pleasure of trying so far. Plus, it tastes so, so deliciously like peach. I love it!&quot;</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Valentina B, Beautycoach/Influencerin</p>
+<p>Valentina B, beauty coach/influencer</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
-<h2>Schweizer Qualität und Technologie</h2>
+<h2>Swiss quality and technology</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Unser spezielles Verfahren der Hydrolyse ermöglicht es, kleine Proteinsegmente mit niedrigem Molekulargewicht (2000 da) zu erhalten und damit eine enorm hohe Bioverfügbarkeit zu gewährleisten: Das Primabiotic Collagen (Swiss Technology) wird von bis zu 95% von den Zellen resorbiert, um dem Körper zur Verfügung zu stehen und seine Wirkung zu entfalten.</p>
+<p>Our special process of hydrolysis makes it possible to obtain small protein segments with a low molecular weight (2000 da) and thus ensure an enormously high bioavailability: Primabiotic Collagen (Swiss Technology) is resorbed by up to 95% by the cells in order to be available to the body and unfold its effects.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
-<h2>Wissenswertes über Kollagen?</h2>
+<h2>Interesting facts about collagen?</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Kollagen ist eines der wichtigsten Proteine im Körper. Der Name leitet sich vom griechischen Wort "kolla" = „Klebstoff“ ab.</p>
+<p>Collagen is one of the most important proteins in the body. The name is derived from the Greek word &quot;kólla&quot; = &quot;glue&quot;.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Kollagen ist der Hauptbestandteil der Bindegewebsbasis - es macht 30 % aller im Körper vorhandenen Proteine aus.</p>
+<p>Collagen is the main component of the connective tissue base - it makes up 30% of all proteins present in the body.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Es ist an den lebenswichtigen Funktionen fast aller Systeme, Organe und allen Gewebes beteiligt.</p>
+<p>It is involved in the vital functions of almost all systems, organs and all tissues.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Es ist für die Aufrechterhaltung des richtigen Feuchtigkeitsgehalts der Haut und die Erneuerung ihrer Zellen verantwortlich.</p>
+<p>It is responsible for maintaining the skin&#39;s proper moisture levels and renewing its cells.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Kollagenfasern sind die Grundbausteine von Haut, Sehnen, Knochen, Gelenken und Hornhaut.</p>
+<p>Collagen fibres are the basic building blocks of skin, tendons, bones, joints and calluses.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Kollagen enthält aufgrund seines Gehalts an Glycin, Prolin und Lysin eine einzigartige Aminosäurezusammensetzung.</p>
+<p>Collagen contains a unique amino acid composition due to its glycine, proline and lysine content.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Ab dem 25. Lebensjahr beginnt der Kollagengehalt in unserem Körper zu sinken.</p>
+<p>From the age of 25, the collagen content in our body begins to decrease.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Bei erhöhter körperlicher Anstrengung und Stress wird die Kollagenbildung beeinträchtigt.</p>
+<p>With increased physical exertion and stress, collagen formation is impaired.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
-<h2>Eigenschaften und Zusammensetzung von Primabiotic Collagen</h2>
+<h2>Properties and composition of Primabiotic Collagen</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Zusammensetzung: 1 Flasche (30ml) enthält: Apfel- und Zitronensaft (aus Konzentrat), 10 000 mg hydrolysiertes Kollagen (aus Rindfleisch), natürliches Pfirsicharoma, Vitamin C, Niacin, Vitamin E, Pantothensäure, Vitamin B6, Riboflavin, Thiamin, Vitamin A, Folsäure, Biotin, Vitamin D, Vitamin B12</p>
+<p>Composition: 1 vial (30ml) contains: Apple and lemon juice (from concentrate), 10 000 mg hydrolysed collagen (from beef), natural peach flavour, vitamin C, niacin, vitamin E, pantothenic acid, vitamin B6, riboflavin, thiamine, vitamin A, folic acid, biotin, vitamin D, vitamin B12.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Nettofüllmenge: 30 ml</p>
+<p>Net quantity: 30 ml</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Empfohlene Dosierung: 30 ml (1 Fläschchen) /Tag, über einen Zeitraum von mindestens 4 Wochen.</p>
+<p>Recommended dosage: 30 ml (1 vial) /day, over a period of at least 4 weeks.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Die ersten Wirkungen sind bereits nach 30 Tagen der Einnahme sichtbar.</p>
+<p>The first effects are already visible after 30 days of intake.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Die in Primabiotic Collagen enthaltenen Vitamine tragen u.a. bei zur Erhaltung von:</p>
+<p>The vitamins contained in Primabiotic Collagen contribute to the maintenance of:</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>- glatter Haut (A, B2, B3, B7, E)<br>- gesunder Haare (B7 - Biotin)<br>- gesunder Knochen (D, C)<br>- eines starken Immunsystems (A, C, D, B6, B12)<br>- Vitalität (Vitamine C, B2, B3, B5, B6, B12)</p>
+<p>- smooth skin (A, B2, B3, B7, E)<br>- healthy hair (B7 - biotin)<br>- healthy bones (D, C)<br>- a strong immune system (A, C, D, B6, B12)<br>- vitality (vitamins C, B2, B3, B5, B6, B12).</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
-<h2>Wichtige Informationen:</h2>
+<h2>Important information:</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Du solltest die empfohlene Tagesdosis nicht überschreiten. Das Präparat sollte nicht als Ersatz für eine abwechslungsreiche Ernährung verwendet werden. Du solltest das Produkt nicht bei Überempfindlichkeit gegen einen der Inhaltsstoffe verwenden. Die Bildung von Ablagerungen im Fläschchen ist ein natürliches Phänomen. Nur für Erwachsene ab dem 18. Lebensjahr und nicht während der Schwangerschaft geeignet.</p>
+<p>You should not exceed the recommended daily dose. The product should not be used as a substitute for a varied diet. You should not use the product if you are hypersensitive to any of the ingredients. The formation of deposits in the vial is a natural phenomenon. Only suitable for adults over the age of 18 and not during pregnancy.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Hergestellt in der EU für Natur Bay GmbH</p>
+<p>Made in the EU for Natur Bay GmbH</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
-<h2>Inhaltsstoffe/ Menge in einer Tagesportion (30 ml) NRV*</h2>
+<h2>Ingredients/Quantity in a daily portion (30 ml) NRV*</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Kollagen 10.000 mg **<br>Vitamin A 121 µg 15%<br>Thiamin (B1) 0,275 mg 25%<br>Riboflavin (B2) 0,434 mg 31 %.<br>Niacin (B3) 4,16 mg 26 %.<br>Pantothensäure (B5) 1,5 mg 25%.<br>Vitamin B6 0,406 mg 29 %.<br>Biotin (B7) 13 µg 26%<br>Folsäure (B9) 60 µg 30%<br>Vitamin B12 1,2 µg 48 %.<br>Vitamin C 80 mg 100%ig<br>Vitamin D 1,2 µg 24%<br>Vitamin E 3 mg 25%<br>*NRV (Nutrition Reference Values) Referenzwert für die tägliche Aufnahme eines Erwachsenen</p>
+<p>Collagen 10,000 mg **<br>Vitamin A 121 µg 15%<br>Thiamine (B1) 0.275 mg 25%<br>Riboflavin (B2) 0.434 mg 31%.<br>Niacin (B3) 4.16 mg 26%.<br>Pantothenic acid (B5) 1.5 mg 25%.<br>Vitamin B6 0.406 mg 29 %.<br>Biotin (B7) 13 µg 26%<br>Folic acid (B9) 60 µg 30%<br>Vitamin B12 1.2 µg 48%.<br>Vitamin C 80 mg 100%ig<br>Vitamin D 1.2 µg 24%<br>Vitamin E 3 mg 25%<br>*NRV (Nutrition Reference Values) Reference value for the daily intake of an adult.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>**NRV wurde nicht ermittelt</p>
+<p>**NRV was not determined</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:tablepress/table {"id":"1"} -->
@@ -265,13 +265,13 @@ post_date: 2023-02-20 08:00:00
 <!-- /wp:tablepress/table -->
 
 <!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">*Referenznährwert für einen durchschnittlichen Erwachsenen (8400 kJ / 2000 kcal)</p>
+<p class="has-small-font-size">*Reference nutritional value for an average adult (8400 kJ / 2000 kcal).</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Primabiotic Collagen ist in einer&nbsp;<strong>praktischen Verabreichungsform</strong>&nbsp;(30 Shots) erhältlich, die sofort konsumiert werden kann. Seine Zusammensetzung ist einfach und natürlich Primabiotic Kollagen unterscheidet sich von anderen Nahrungsergänzungsmitteln durch das Fehlen von künstlichen Zusatzstoffen oder raffinierten Zucker.<br><br>Preis pro 100 ml, beim Kauf eines Sets mit 30 Fläschchen á 30 ml : 9,99 €<br><br>Wenn Sie ein 30-Tage-Präparat kaufen, beträgt der Preis für eine Tagesportion 2.99 €</p>
+<p>Primabiotic Collagen is available in a <strong>convenient dosage form</strong> (30 shots) that can be consumed immediately. Its composition is simple and natural. Primabiotic Collagen differs from other food supplements by the absence of artificial additives or refined sugars.<br><br>Price per 100 ml, when buying a set of 30 vials á 30 ml : €9.99. <br><br>If you buy a 30-day pack, the price for a daily portion is €2.99.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Primabiotic Collagen ist eine völlig natürliche Form von Kollagen von höchster Qualität. Die hydrolysierte Form gewährleistet eine Absorption durch den Körper zu 95 %. Das Produkt enthält natürlich vorkommenden Zucker. Es enthält keine Konservierungsstoffe oder andere künstliche Zusatzstoffe. Die ersten Effekte sind nach 30 Tagen der Supplementierung sichtbar, die besten Ergebnisse können nach 3 Monaten der Anwendung erzielt werden.</p>
+<p>Primabiotic Collagen is a completely natural form of collagen of the highest quality. The hydrolysed form ensures 95% absorption by the body. The product contains naturally occurring sugar. It contains no preservatives or other artificial additives. The first effects are visible after 30 days of supplementation, the best results can be achieved after 3 months of use.</p>
 <!-- /wp:paragraph -->
