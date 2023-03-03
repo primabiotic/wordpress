@@ -1,14 +1,14 @@
 ---
-title: Kollagen - für Gelenke, Haut, Haare und Nägel!
+title: Collagen - for joints, skin, hair and nails!
 comment_status: closed
 post_date: 2023-02-20 08:00:00
 ---
 <!-- wp:heading {"level":3} -->
-<h3>Kollagen - ein Nahrungsergänzungsmittel für Ihre Gelenke, Haut, Haare und Nägel!</h3>
+<h3>Collagen - a food supplement for your joints, skin, hair and nails!</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p><em>Was zeichnet die Kollagenergänzung aus? Sie hat tatsächlich eine doppelte Wirkung. Einerseits können wir auf die Verbesserung unseres Wohlbefindens und die Linderung von Gelenk- und Muskelschmerzen zählen, andererseits ist Kollagen wie eine Schönheitsspritze, denn es hat eine starke Wirkung auf Haut, Haare und Nägel.</em></p>
+<p><em>What distinguishes the collagen supplement? It actually has a double effect. On the one hand, we can count on the improvement of our well-being and the relief of joint and muscle pain, on the other hand, collagen is like a beauty injection, as it has a strong effect on skin, hair and nails.</em></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:spacer {"height":"30px"} -->
@@ -20,19 +20,19 @@ post_date: 2023-02-20 08:00:00
 <!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":3} -->
-<h3>Ist eine Kollagenergänzung sinnvoll?</h3>
+<h3>Is collagen supplementation beneficial?</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Dies ist eine der am häufigsten gestellten Fragen im Zusammenhang mit Kollagen. Die Einnahme von Nahrungsergänzungsmitteln wird für alle Personen über 26 Jahren empfohlen. Mehr oder weniger von diesem Moment an verlangsamt sich die Produktion des Proteins in unserem Körper deutlich, was sich in Form von Falten oder weniger fester Haut äußert. Der größte Zweifel besteht jedoch darin, ob das Kollagen aufgenommen werden kann und eine Wirkung auf unsere Stimmung oder unser Aussehen hat.</p>
+<p>This is one of the most frequently asked questions in connection with collagen. The intake of food supplements is recommended for all persons over 26 years of age. More or less from that moment on, the production of the protein in our body slows down significantly, which manifests itself in the form of wrinkles or loss of firmness in the skin. The biggest doubt, however, is whether the collagen can be assimilated and have an effect on our mood or appearance.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Die Assimilierbarkeit von Kollagen aus Lebensmitteln (z. B. Gelees) ist sehr gering und wird oft auf bis zu 5 % geschätzt. Hydrolysiertes Kollagen hat einen eindeutigen Vorteil. Es besteht aus kurzen, bioaktiven Peptiden, die sich unter dem Einfluss von Salzsäure in Aminosäuren umwandeln, die erst im Dünndarm absorbiert werden. Von dort werden sie zusammen mit dem Blut zu den Systemen, Organen und Geweben transportiert.</p>
+<p>The assimilability of collagen from food (e.g. jellies) is very low and is often estimated at up to 5%. Hydrolysed collagen has a distinct advantage. It consists of short, bioactive peptides which, under the influence of hydrochloric acid, are transformed into amino acids that are only absorbed in the small intestine. From there, they are transported together with the blood to the systems, organs and tissues.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Wir sollten daher bedenken, dass eine Kollagenergänzung sinnvoll ist, sofern wir ein hydrolysiertes Präparat wählen.</p>
+<p>We should therefore bear in mind that collagen supplementation is beneficial as long as we choose a hydrolysed product.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:spacer {"height":"35px"} -->
@@ -40,15 +40,15 @@ post_date: 2023-02-20 08:00:00
 <!-- /wp:spacer -->
 
 <!-- wp:heading {"level":3} -->
-<h3>Kollagen - ein Nahrungsergänzungsmittel für Deine Gelenke</h3>
+<h3>Collagen - a food supplement for your joints</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Eiweiß ist der Baustein für Knochen, Gelenke und Knorpel. Mit zunehmendem Alter verlieren wir, wie bereits erwähnt, die Fähigkeit, Kollagenfasern neu zu bilden. Der Knorpel wird weniger elastisch, und es kann weniger Gelenkflüssigkeit - die Substanz, die die Reibung bei Bewegung verringert - produziert werden.</p>
+<p>Protein is the building block for bones, joints and cartilage. As we age, as mentioned earlier, we lose the ability to rebuild collagen fibres. Cartilage becomes less elastic and less synovial fluid - the substance that reduces friction during movement - can be produced.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>All dies zusammen führt dazu, dass wir bei einfachen Tätigkeiten Schmerzen empfinden. Beim Treppensteigen knarren die Knie, die Gartenarbeit fordert ihren Tribut in der Schulter, immer häufiger klagen wir über Schmerzen in den Ellenbogen oder Handgelenken... Der Gang zum Facharzt ist das eine, aber wir können dem Körper auch selbst helfen. Wie? Durch richtige Ernährung und die Einnahme von hydrolysiertem Kollagen in Form von Nahrungsergänzungsmitteln.</p>
+<p>All this together leads to us feeling pain during simple activities. Our knees creak when we climb the stairs, gardening takes its toll on our shoulders, more and more often we complain of pain in our elbows or wrists... Going to a specialist is one option, but we can also help the body ourselves. How? Through proper nutrition and the intake of hydrolysed collagen in the form of food supplements.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":213,"sizeSlug":"full","linkDestination":"none"} -->
@@ -56,15 +56,15 @@ post_date: 2023-02-20 08:00:00
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3} -->
-<h3>Schöne Haut, Haare und Nägel - die Bedeutung von Kollagen für unser Aussehen</h3>
+<h3>Beautiful skin, hair and nails - the importance of collagen for our appearance</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>So wie unsere Gelenke, Knochen und Knorpel mit dem Alter schwächer werden, verschlechtert sich auch der Zustand unserer Haare, Haut und Nägel. Wir können es mit bloßem Auge sehen - wenn wir aufstehen, wollen die Dellen auf unseren Wangen vom Kissen nicht so schnell verschwinden, die Haare werden dünner, die Nägel brechen und splittern. Sehr oft ist Bewegung nicht mehr so effektiv. Die Cellulite an den Oberschenkeln oder am Gesäß ist sehr widerstandsfähig und will trotz aller Bemühungen nicht verschwinden.</p>
+<p>Just as our joints, bones and cartilage weaken with age, so does the condition of our hair, skin and nails. We can see it with the naked eye - when we get up, the dents on our cheeks from the pillow don&#39;t tend to disappear as quickly, the hair thins, the nails break and splinter. Very often, exercise is no longer as effective. Cellulite on the thighs or buttocks is very resistant and does not want to disappear despite all efforts.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Auch hier gibt es einige grundlegende Faktoren zu beachten: eine Ernährung, die reich an Vitamin C und E ist, Trinkwasser und äußerliche Pflege. Ein sehr wichtiges Puzzlestück, das unser schönes Aussehen und unsere bessere Laune ausmacht, ist jedoch - wieder einmal - Kollagen. Die regelmäßige Zufuhr dieses Proteins stärkt die Haut, macht Falten weniger sichtbar und lässt neue Falten später entstehen. Wir verlieren auch keine Haare mehr und unsere Nägel wachsen schneller und härter.</p>
+<p>Again, there are some basic factors to consider: a diet rich in vitamins C and E, drinking water and external care. However, one very important piece of the puzzle that makes up our beautiful appearance and better mood is - once again - collagen. Regular intake of this protein strengthens the skin, makes wrinkles less visible and allows new wrinkles to appear later. We also stop losing hair and our nails grow faster and harder.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:shortcode -->
@@ -72,5 +72,5 @@ post_date: 2023-02-20 08:00:00
 <!-- /wp:shortcode -->
 
 <!-- wp:paragraph -->
-<p><strong>Kollagen - eine bedarfsgerechte Ergänzung oder eine Modeerscheinung? Viele unabhängige Studien belegen, dass eine Supplementierung mit kollagenem Eiweiß sehr wichtig ist, um Beschwerden des Bewegungsapparats zu beseitigen. Außerdem verhilft es Dir zu einem strahlenderem Aussehen.</strong>&nbsp;</p>
+<p><strong>Collagen - a need-based supplement or a fad? Many independent studies show that supplementation with collagen protein is very important to eliminate musculoskeletal complaints. It also helps you look more radiant.</strong> </p>
 <!-- /wp:paragraph -->
