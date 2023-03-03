@@ -1,80 +1,80 @@
 ---
-title: Kollagen - Eigenschaften und Auswirkungen auf die Gesundheit des Menschen
+title: Collagen - properties and effects on human health
 comment_status: closed
 post_date: 2023-02-20 08:00:00
 ---
 <!-- wp:heading -->
-<h2>Kollagen ist das wichtigste Protein im menschlichen Körper</h2>
+<h2>Collagen is the most important protein in the human body</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Es macht bis zu 30 % der gesamten menschlichen Proteinmasse und 70 % der Hautproteinmasse aus. Im folgenden Artikel erfährst Du, wie sich ein Kollagenmangel äußert, welche Ursachen er hat, inwieweit er Deine Gelenken schädigt und wie Du diesen Mangel am wertvollen Protein Kollagen in Ihren Gelenken ausgleichen kannst.</p>
+<p>It accounts for up to 30% of total human protein mass and 70% of skin protein mass. In the following article you will learn how a collagen deficiency manifests itself, what causes it, to what extent it damages your joints and how you can compensate for this lack of the valuable protein collagen in your joints.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Nach dem 25. Lebensjahr verliert der menschliche Körper allmählich seine Fähigkeit, Kollagen selbstständig wieder aufzubauen. Wir sind nicht in der Lage, diesen Prozess zu blockieren, aber wir können ihn durch Kollagenergänzung verlangsamen.</p>
+<p>After the age of 25, the human body gradually loses its ability to rebuild collagen on its own. We are not able to block this process, but we can slow it down through collagen supplementation.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Kollagen ist an den grundlegenden Lebensfunktionen fast aller Systeme und Organe beteiligt. Es hat zudem eine wichtige Funktion im menschlichen Immunsystem.</p>
+<p>Collagen is involved in the basic life functions of almost all systems and organs. It also has an important function in the human immune system.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Ein Kollagenmangel äußert sich daher unter anderem in einem Verlust der reibungslosen und schmerzfreien Gelenkfunktion, einer Schwächung von Haut, Haaren und Nägeln, einer geringeren Regenerationsfähigkeit des Körpers nach körperlicher Anstrengung, Funktionsstörungen im Bewegungsapparat und in der Arbeit von Geweben und Organen, für die Kollagen und interagierende Substanzen strategische Funktionen haben. Auch Störungen des Immunsystems, in dem Kollagen eine Abwehrfunktion hat, indem es das Eindringen und die Ausbreitung von Krankheitserregern (Umweltgiften), Mikroorganismen und Krebszellen verhindert, sind gefährlich für Gesundheit und Leben. </p>
+<p>A collagen deficiency therefore manifests itself, among other things, in a loss of smooth and painless joint function, a weakening of the skin, hair and nails, a reduced ability of the body to regenerate after physical exertion, dysfunctions in the musculoskeletal system and in the work of tissues and organs for which collagen and interacting substances have strategic functions. Disorders of the immune system, in which collagen has a defence function by preventing the invasion and spread of pathogens (environmental toxins), microorganisms and cancer cells, are also dangerous to health and life. </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Lies weiter, welche weiteren Auswirkungen ein Kollagenmangel haben kann.</p>
+<p>Read on to see what other effects a collagen deficiency can have.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:shortcode -->
-[product id="50"]
+[product id=&quot;50&quot;]
 <!-- /wp:shortcode -->
 
 <!-- wp:heading -->
-<h2>Auswirkungen von Kollagenmangel</h2>
+<h2>Effects of collagen deficiency</h2>
 <!-- /wp:heading -->
 
 <!-- wp:list -->
 <ul><!-- wp:list-item -->
-<li>Schnellere Alterung der Haut</li>
+<li>Faster aging of the skin</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Verlust von Festigkeit und Elastizität der Haut</li>
+<li>Loss of firmness and elasticity of the skin</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Steifheit der Gelenke, Rückenschmerzen</li>
+<li>Stiffness of the joints, back pain</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Sprödes und stumpfes Haar</li>
+<li>Brittle and dull hair</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Trockenheit und Reizung der Haut</li>
+<li>Dryness and irritation of the skin</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Bildung von tiefen Falten</li>
+<li>Formation of deep wrinkles</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Bildung von Cellulite</li>
+<li>Cellulite formation</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Verfärbung der Haut</li>
+<li>Discolouration of the skin</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Dehnungsstreifen</li>
+<li>Stretch marks</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p>Ein ausreichender Kollagengehalt verbessert die körperliche Leistungsfähigkeit und erhöht die Widerstandsfähigkeit gegen übermäßige Belastungen von Sehnen, Bändern und Gelenken. Es beschleunigt auch die Fähigkeit des Körpers, sich von Verletzungen oder Operationen zu erholen. Erfahre nachfolgend mehr über die Vorteile einer Kollagenergänzung.</p>
+<p>Sufficient collagen improves physical performance and increases resistance to excessive stress on tendons, ligaments and joints. It also speeds up the body&#39;s ability to recover from injury or surgery. Learn more about the benefits of collagen supplementation below.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:spacer {"height":"30px"} -->
@@ -82,72 +82,72 @@ post_date: 2023-02-20 08:00:00
 <!-- /wp:spacer -->
 
 <!-- wp:heading -->
-<h2>Vorteile der Kollagenergänzung:</h2>
+<h2>Advantages of collagen supplementation:</h2>
 <!-- /wp:heading -->
 
 <!-- wp:list -->
 <ul><!-- wp:list-item -->
-<li>Erhöhung der Festigkeit von Gelenken, Bändern und Sehnen</li>
+<li>Increase the strength of joints, ligaments and tendons</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Schnelleres Wachstum der natürlichen Bausteine der Muskelmasse</li>
+<li>Faster growth of the natural building blocks of muscle mass</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Steigerung der körperlichen Leistungsfähigkeit und schnellere Erholung nach dem Sport</li>
+<li>Increased physical performance and faster recovery after exercise</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Verminderter Appetit und Aufrechterhaltung eines gesunden Körpergewichts</li>
+<li>Reduced appetite and maintenance of a healthy body weight</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Erhöhte Immunität</li>
+<li>Enhanced immunity</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Schnellere Genesung von Verletzungen und Frakturen,</li>
+<li>Faster recovery from injuries and fractures</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Wirkt der Faltenbildung entgegen</li>
+<li>Counteracts the formation of wrinkles</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Verbesserte Elastizität, Glätte und Festigkeit der Haut</li>
+<li>Improved elasticity, smoothness and firmness of the skin</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Verringerung von Hautverfärbungen</li>
+<li>Reduction of skin discolouration</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Gesundes und schönes Haar</li>
+<li>Healthy and beautiful hair</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Starke Nägel</li>
+<li>Strong nails</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Verhindert die Bildung von Cellulite</li>
+<li>Prevents the formation of cellulite</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Erhöhung der Spannkraft und Festigkeit der Haut</li>
+<li>Increase the elasticity and firmness of the skin</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Prävention von Osteoporose</li>
+<li>Prevention of osteoporosis</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Wiederaufbau des Knorpels</li>
+<li>Rebuilding of the cartilage</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Linderung der Symptome der Menopause</li>
+<li>Alleviates the symptoms of menopause</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
@@ -156,57 +156,57 @@ post_date: 2023-02-20 08:00:00
 <!-- /wp:spacer -->
 
 <!-- wp:heading -->
-<h2>Was zeichnet Primabiotic Collagen aus?</h2>
+<h2>What distinguishes Primabiotic Collagen?</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Kollagen ist in verschiedenen Formen auf dem Markt erhältlich: als Tabletten, Pulver zum Mischen mit Wasser, Cremes, Gele oder Flüssigkeiten. Kollagen kann auch in Lebensmitteln vorkommen: in Knochenbrühen oder Gelees. </p>
+<p>Collagen is available on the market in various forms: tablets, powders to mix with water, creams, gels or liquids. Collagen can also be found in food: in bone broths or jellies. </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Finde heraus, warum unser <strong>Primabiotic Collagen die beste Wahl ist!</strong></p>
+<p>Find out why our <strong>Primabiotic Collagen is the best choice!</strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
 <ul><!-- wp:list-item -->
-<li><strong>10 000 mg Kollagen in einer einzigen Dosis </strong>- die maximale empfohlene Tagesdosis an Kollagen</li>
+<li><strong>10 000 mg collagen in a single dose </strong>- the maximum recommended daily dose of collagen.</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Hydrolysiertes Kollagen, <strong>2000 Da</strong>, das eine <strong>Absorption von bis zu 95 %</strong> garantiert</li>
+<li>Hydrolysed collagen, <strong>2000 Da</strong>, which guarantees <strong>absorption of up to 95%</strong> .</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><strong>Frei von Zucker, Konservierung- und anderen künstlichen Zusatzstoffen</strong></li>
+<li><strong>Free from sugar, preservatives and other artificial additives</strong></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Erfrischender <strong>Fruchtgeschmack </strong>- Österreichisches BIO-zertifiziertes Apfelsaftkonzentrat und natürliches Pfirsicharoma</li>
+<li>Refreshing <strong>fruit flavour </strong>- Austrian BIO-certified apple juice concentrate and natural peach flavouring.</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Reich an <strong>Vitaminen </strong>- B1, B2, B3, B5, B6, B7, B9, B12, C, D3, E</li>
+<li>Rich in <strong>vitamins </strong>- B1, B2, B3, B5, B6, B7, B9, B12, C, D3, E</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Es muss nicht im Kühlschrank aufbewahrt werden</li>
+<li>Does not need to be stored in the fridge</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Sofort einsatzbereit, kein Abmessen oder Mischen mit Wasser erforderlich</li>
+<li>Ready to use immediately, no measuring or mixing with water required</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Kleine, handliche Flasche, die leicht in eine Handtasche oder einen Koffer passt</li>
+<li>Small, handy bottle that fits easily into a handbag or suitcase</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Umweltfreundliche Glasverpackung</li>
+<li>Environmentally-friendly glass packaging</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
 <!-- wp:shortcode -->
-[product id="50"]
+[product id=&quot;50&quot;]
 <!-- /wp:shortcode -->
 
 <!-- wp:spacer {"height":"22px"} -->
@@ -214,17 +214,17 @@ post_date: 2023-02-20 08:00:00
 <!-- /wp:spacer -->
 
 <!-- wp:paragraph -->
-<p>Und hier weitere Artikel über die Eigenschaften von Kollagen:</p>
+<p>And here are more articles about the properties of collagen:</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a href="https://primabiotic.de/6-gruende-fuer-die-verwendung-von-kollagen/">6 Gründe für die Verwendung von Kollagen</a>!</p>
+<p><a href="https://primabiotic.de/6-gruende-fuer-die-verwendung-von-kollagen/">6 reasons to use collagen</a>!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a href="https://primabiotic.de/kann-kollagen-akne-heilen/">Kann Kollagen Akne heilen?</a></p>
+<p><a href="https://primabiotic.de/kann-kollagen-akne-heilen/">Can collagen cure acne?</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a href="https://primabiotic.de/kollagen-in-welchen-produkten-ist-es-zu-finden/">Kollagen - in welchen Produkten ist es zu finden?</a></p>
+<p><a href="https://primabiotic.de/kollagen-in-welchen-produkten-ist-es-zu-finden/">Collagen - in which products can it be found?</a></p>
 <!-- /wp:paragraph -->
