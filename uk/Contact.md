@@ -1,7 +1,7 @@
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:paragraph -->
-<p><strong>Kontaktaufnahme</strong></p>
+<p><strong>Contact</strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:contact-form-7/contact-form-selector {"id":13,"title":"Formularz kontaktowy"} -->
