@@ -166,19 +166,19 @@ and in harmony with nature - that is what we at Primabiotic stand for!</p>
 <!-- wp:column {"fontSize":"medium"} -->
 <div class="wp-block-column has-medium-font-size"><!-- wp:list -->
 <ul><!-- wp:list-item -->
-<li>Reduction of hyperpigmentation</li>
+<li>reduction of hyperpigmentation</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>kräftiges und glänzendes Haar</li>
+<li>strong and shiny hair</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>mehr Energie</li>
+<li>more energy</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>stärkere Immunität</li>
+<li>stronger immune system</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list --></div>
 <!-- /wp:column -->
@@ -186,19 +186,19 @@ and in harmony with nature - that is what we at Primabiotic stand for!</p>
 <!-- wp:column {"fontSize":"medium"} -->
 <div class="wp-block-column has-medium-font-size"><!-- wp:list -->
 <ul><!-- wp:list-item -->
-<li>harte Nägel</li>
+<li>strong nails</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Improved joint function</li>
+<li>improved joint function</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Strong ligaments and tendons</li>
+<li>strong ligaments and tendons</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Healthy bones</li>
+<li>healthy bones</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list --></div>
 <!-- /wp:column --></div>
