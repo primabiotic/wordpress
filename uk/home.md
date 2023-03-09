@@ -1,9 +1,9 @@
 <!-- wp:image {"align":"wide","id":4602,"sizeSlug":"full","linkDestination":"custom","className":"main-desktop-banner"} -->
-<figure class="wp-block-image alignwide size-full main-desktop-banner"><a href="https://primabiotic.de/produkt/primabiotic-collagen-x30/"><img src="https://primabiotic.de/wp-content/uploads/2023/02/banner-1280x550_collagen.png" alt="" class="wp-image-4602"/></a></figure>
+<figure class="wp-block-image alignwide size-full main-desktop-banner"><a href="https://new.primabiotic.co.uk/produkt/primabiotic-collagen/"><img src="https://primabiotic.de/wp-content/uploads/2023/02/banner-1280x550_collagen.png" alt="" class="wp-image-4602"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"align":"wide","id":4604,"sizeSlug":"full","linkDestination":"custom","className":"main-mobile-banner"} -->
-<figure class="wp-block-image alignwide size-full main-mobile-banner"><a href="https://primabiotic.de/produkt/primabiotic-collagen-x30/"><img src="https://primabiotic.de/wp-content/uploads/2023/02/banner-686x556_collagen.png" alt="" class="wp-image-4604"/></a></figure>
+<figure class="wp-block-image alignwide size-full main-mobile-banner"><a href="https://new.primabiotic.co.uk/produkt/primabiotic-collagen/"><img src="https://primabiotic.de/wp-content/uploads/2023/02/banner-686x556_collagen.png" alt="" class="wp-image-4604"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:columns {"align":"wide","className":"second-main-section"} -->
@@ -55,7 +55,7 @@ and in harmony with nature - that is what we at Primabiotic stand for!</p>
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":5221,"sizeSlug":"full","linkDestination":"custom","className":"main-desktop-banner"} -->
-<figure class="wp-block-image size-full main-desktop-banner"><a href="https://primabiotic.de/produkt/primabiotic-collagen-60-flaschchen-zum-valentinstag-2023-mega-angebot/"><img src="https://primabiotic.de/wp-content/uploads/2023/02/primabiotic-d.jpg" alt="collagen" class="wp-image-5221"/></a></figure>
+<figure class="wp-block-image size-full main-desktop-banner"><a href="https://new.primabiotic.co.uk/produkt/primabiotic-collagen/"><img src="https://primabiotic.de/wp-content/uploads/2023/02/primabiotic-d.jpg" alt="collagen" class="wp-image-5221"/></a></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -63,7 +63,7 @@ and in harmony with nature - that is what we at Primabiotic stand for!</p>
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":5222,"sizeSlug":"large","linkDestination":"custom","className":"main-mobile-banner"} -->
-<figure class="wp-block-image size-large main-mobile-banner"><a href="https://primabiotic.de/produkt/primabiotic-collagen-60-flaschchen-zum-valentinstag-2023-mega-angebot/"><img src="https://primabiotic.de/wp-content/uploads/2023/02/primabiotic-m-1024x833.jpg" alt="collagen" class="wp-image-5222"/></a></figure>
+<figure class="wp-block-image size-large main-mobile-banner"><a href="https://new.primabiotic.co.uk/produkt/primabiotic-collagen/"><img src="https://primabiotic.de/wp-content/uploads/2023/02/primabiotic-m-1024x833.jpg" alt="collagen" class="wp-image-5222"/></a></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -166,19 +166,19 @@ and in harmony with nature - that is what we at Primabiotic stand for!</p>
 <!-- wp:column {"fontSize":"medium"} -->
 <div class="wp-block-column has-medium-font-size"><!-- wp:list -->
 <ul><!-- wp:list-item -->
-<li>reduction of hyperpigmentation</li>
+<li>Reduction of hyperpigmentation</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>strong and shiny hair</li>
+<li>kräftiges und glänzendes Haar</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>more energy</li>
+<li>mehr Energie</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>stronger immune system</li>
+<li>stärkere Immunität</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list --></div>
 <!-- /wp:column -->
@@ -186,19 +186,19 @@ and in harmony with nature - that is what we at Primabiotic stand for!</p>
 <!-- wp:column {"fontSize":"medium"} -->
 <div class="wp-block-column has-medium-font-size"><!-- wp:list -->
 <ul><!-- wp:list-item -->
-<li>strong nails</li>
+<li>harte Nägel</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>improved joint function</li>
+<li>Improved joint function</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>strong ligaments and tendons</li>
+<li>Strong ligaments and tendons</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>healthy bones</li>
+<li>Healthy bones</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list --></div>
 <!-- /wp:column --></div>
@@ -209,5 +209,5 @@ and in harmony with nature - that is what we at Primabiotic stand for!</p>
 <!-- /wp:image -->
 
 <!-- wp:image {"align":"wide","id":1945,"sizeSlug":"full","linkDestination":"custom","className":"last-main-img-mobile"} -->
-<figure class="wp-block-image alignwide size-full last-main-img-mobile"><a href="https://primabiotic.de/produkt/primabiotic-collagen-x30/"><img src="https://primabiotic.de/wp-content/uploads/2022/12/banner-686x1029-2.jpg" alt="" class="wp-image-1945"/></a></figure>
+<figure class="wp-block-image alignwide size-full last-main-img-mobile"><a href="https://new.primabiotic.co.uk/produkt/primabiotic-collagen/"><img src="https://primabiotic.de/wp-content/uploads/2022/12/banner-686x1029-2.jpg" alt="" class="wp-image-1945"/></a></figure>
 <!-- /wp:image -->
