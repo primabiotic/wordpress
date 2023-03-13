@@ -11,7 +11,7 @@ post_date: 2023-02-20 08:00:00
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"25px"}}} -->
-<p class="has-text-align-center" style="font-size:25px">Up to 10 000 mg <br>in one vial</p>
+<p class="has-text-align-center" style="font-size:25px">Până la 10 000 mg <br>într-o singură fiolă</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
@@ -21,7 +21,7 @@ post_date: 2023-02-20 08:00:00
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"25px"}}} -->
-<p class="has-text-align-center" style="font-size:25px">100% natural product</p>
+<p class="has-text-align-center" style="font-size:25px">Produs 100% natural</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
@@ -31,7 +31,7 @@ post_date: 2023-02-20 08:00:00
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"25px"}}} -->
-<p class="has-text-align-center" style="font-size:25px">Only 47 kcal <br>per serving</p>
+<p class="has-text-align-center" style="font-size:25px">Doar 47 kcal <br> porția</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -43,7 +43,7 @@ post_date: 2023-02-20 08:00:00
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"25px"}}} -->
-<p class="has-text-align-center" style="font-size:25px">Bioavailability <br>up to 95%</p>
+<p class="has-text-align-center" style="font-size:25px">Biodisponibilitate <br>până la 95%.</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
@@ -53,7 +53,7 @@ post_date: 2023-02-20 08:00:00
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"25px"}}} -->
-<p class="has-text-align-center" style="font-size:25px">Without added sugar and preservatives</p>
+<p class="has-text-align-center" style="font-size:25px">Fără adaos de zahăr și conservanți</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
@@ -63,7 +63,7 @@ post_date: 2023-02-20 08:00:00
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"25px"}}} -->
-<p class="has-text-align-center" style="font-size:25px">With the addition <br>of 12 vitamins</p>
+<p class="has-text-align-center" style="font-size:25px">Cu adaos <br>de 12 vitamine</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -75,7 +75,7 @@ post_date: 2023-02-20 08:00:00
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"25px"}}} -->
-<p class="has-text-align-center" style="font-size:25px">Convenient dosage form- Shots</p>
+<p class="has-text-align-center" style="font-size:25px">Formă convenabilă de dozare - doze</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
@@ -85,7 +85,7 @@ post_date: 2023-02-20 08:00:00
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"25px"}}} -->
-<p class="has-text-align-center" style="font-size:25px">Fruity taste</p>
+<p class="has-text-align-center" style="font-size:25px">Gust de fructe</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
@@ -95,169 +95,169 @@ post_date: 2023-02-20 08:00:00
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"25px"}}} -->
-<p class="has-text-align-center" style="font-size:25px">Eco-friendly packaging</p>
+<p class="has-text-align-center" style="font-size:25px">Ambalaj ecologic</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
 
 <!-- wp:heading -->
-<h2>Why Primabiotic Collagen?</h2>
+<h2>De ce colagenul primabiotic?</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>With the bioavailability of 95% and the high concentration of 10,000 mg/serving, we are unique!</p>
+<p>Cu o biodisponibilitate de 95% și o concentrație ridicată de 10.000 mg/servire, suntem unici!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>See the noticeable effect for yourself!</p>
+<p>Vedeți efectul vizibil pentru dumneavoastră!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
-<h2>When is Primabiotic Collagen the ideal supplement for you?</h2>
+<h2>Când este Primabiotic Collagen suplimentul ideal pentru dumneavoastră?</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>- You notice the effects of collagen deficiency such as weaker hair and nails, more wrinkles, joint, bone and muscle pain, cellulite, impaired wound healing.</p>
+<p>- Observați efectele deficitului de colagen, cum ar fi părul și unghiile mai slabe, mai multe riduri, dureri articulare, osoase și musculare, celulită, afectarea vindecării rănilor.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>- You want to take care of your health and maintain a young appearance.</p>
+<p>- Doriți să aveți grijă de sănătatea dumneavoastră și să vă păstrați un aspect tânăr.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>- You prefer natural flavored collagen in liquid form rather than taking pills or powder.</p>
+<p>- Preferați colagenul cu aromă naturală sub formă lichidă, în loc să luați pastile sau pulbere.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
-<h2>Primabiotic Collagen - Experiences</h2>
+<h2>Primabiotic Collagen - Experiențe</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>There are many collagens on the market. How do you know which which one produces the best effect? The opinions of customers on independent portals can help you form an opinion.</p>
+<p>Există multe tipuri de colage pe piață. Cum să știi care dintre ele produce cel mai bun efect? Opiniile clienților de pe portalurile independente vă pot ajuta să vă formați o părere.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Customer reviews:</p>
+<p>Comentariile clienților:</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>&quot;After one month of use, I can say that my knees no longer hurt, the condition of my hair has improved and my nails are stronger. I highly recommend it.&quot;</p>
+<p>„După o lună de utilizare, pot spune că nu mă mai dor genunchii, starea părului meu s-a îmbunătățit, iar unghiile mele sunt mai puternice. Îl recomand cu căldură.”</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Kathrin E., mother</p>
+<p>Kathrin E., mamă</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>&quot;I have noticed a significant reduction in cellulite, an improvement in the appearance of my skin and a faster recovery after exercise.&quot;</p>
+<p>„Am observat o reducere semnificativă a celulitei, o îmbunătățire a aspectului pielii mele și o recuperare mai rapidă după efort.”</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Ola Z., fitness trainer</p>
+<p>Ola Z., antrenor de fitness</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>&quot;Primabiotic Collagen is the best collagen supplement I have had the pleasure of trying so far. Plus, it tastes so, so deliciously like peach. I love it!&quot;</p>
+<p>„Primabiotic Collagen este cel mai bun supliment de colagen pe care am avut plăcerea să îl încerc până acum. În plus, are un gust foarte, foarte delicios de piersică. Îmi place!”</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Valentina B, beauty coach/influencer</p>
+<p>Valentina B, antrenor de frumusețe/influencer</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
-<h2>Swiss quality and technology</h2>
+<h2>Calitate și tehnologie elvețiană</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Our special process of hydrolysis makes it possible to obtain small protein segments with a low molecular weight (2000 da) and thus ensure an enormously high bioavailability: Primabiotic Collagen (Swiss Technology) is resorbed by up to 95% by the cells in order to be available to the body and unfold its effects.</p>
+<p>Procesul nostru special de hidroliză face posibilă obținerea unor segmente proteice mici, cu o greutate moleculară redusă (2000 da), asigurând astfel o biodisponibilitate extrem de ridicată: Colagenul Primabiotic Collagen (tehnologie elvețiană) este resorbit în proporție de până la 95% de către celule pentru a fi disponibil organismului și a-și desfășura efectele.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
-<h2>Interesting facts about collagen?</h2>
+<h2>Date interesante despre colagen?</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Collagen is one of the most important proteins in the body. The name is derived from the Greek word &quot;kólla&quot; = &quot;glue&quot;.</p>
+<p>Colagenul este una dintre cele mai importante proteine din organism. Numele provine din cuvântul grecesc „kólla” = „lipici”.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Collagen is the main component of the connective tissue base - it makes up 30% of all proteins present in the body.</p>
+<p>Colagenul este principala componentă a bazei țesutului conjunctiv - reprezintă 30% din toate proteinele prezente în organism.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>It is involved in the vital functions of almost all systems, organs and all tissues.</p>
+<p>Este implicat în funcțiile vitale ale aproape tuturor sistemelor, organelor și țesuturilor.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>It is responsible for maintaining the skin&#39;s proper moisture levels and renewing its cells.</p>
+<p>Este responsabilă pentru menținerea nivelului adecvat de hidratare a pielii și pentru reînnoirea celulelor acesteia.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Collagen fibres are the basic building blocks of skin, tendons, bones, joints and calluses.</p>
+<p>Fibrele de colagen sunt elementele de bază ale pielii, tendoanelor, oaselor, articulațiilor și bătăturilor.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Collagen contains a unique amino acid composition due to its glycine, proline and lysine content.</p>
+<p>Colagenul are o compoziție unică de aminoacizi datorită conținutului său de glicină, prolină și lizină.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>From the age of 25, the collagen content in our body begins to decrease.</p>
+<p>Începând cu vârsta de 25 de ani, conținutul de colagen din corpul nostru începe să scadă.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>With increased physical exertion and stress, collagen formation is impaired.</p>
+<p>În cazul efortului fizic crescut și al stresului, formarea colagenului este afectată.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
-<h2>Properties and composition of Primabiotic Collagen</h2>
+<h2>Proprietățile și compoziția colagenului Primabiotic</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Composition: 1 vial (30ml) contains: Apple and lemon juice (from concentrate), 10 000 mg hydrolysed collagen (from beef), natural peach flavour, vitamin C, niacin, vitamin E, pantothenic acid, vitamin B6, riboflavin, thiamine, vitamin A, folic acid, biotin, vitamin D, vitamin B12.</p>
+<p>Compoziție: 1 flacon (30ml) conține: Suc de mere și lămâie (din concentrat), 10 000 mg colagen hidrolizat (din carne de vită), aromă naturală de piersică, vitamina C, niacină, vitamina E, acid pantotenic, vitamina B6, riboflavină, tiamină, vitamina A, acid folic, biotină, vitamina D, vitamina B12.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Net quantity: 30 ml</p>
+<p>Cantitate netă: 30 ml</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Recommended dosage: 30 ml (1 vial) /day, over a period of at least 4 weeks.</p>
+<p>Dozaj recomandat: 30 ml (1 flacon) /zi, pe o perioadă de cel puțin 4 săptămâni.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>The first effects are already visible after 30 days of intake.</p>
+<p>Primele efecte sunt deja vizibile după 30 de zile de administrare.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>The vitamins contained in Primabiotic Collagen contribute to the maintenance of:</p>
+<p>Vitaminele conținute în Primabiotic Collagen contribuie la menținerea:</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>- smooth skin (A, B2, B3, B7, E)<br>- healthy hair (B7 - biotin)<br>- healthy bones (D, C)<br>- a strong immune system (A, C, D, B6, B12)<br>- vitality (vitamins C, B2, B3, B5, B6, B12).</p>
+<p>- piele netedă (A, B2, B3, B7, E)<br>- păr sănătos (B7 - biotina)<br>- oase sănătoase (D, C)<br>- un sistem imunitar puternic (A, C, D, B6, B12)<br>- vitalitate (vitaminele C, B2, B3, B5, B6, B12).</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
-<h2>Important information:</h2>
+<h2>Informație importantă:</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>You should not exceed the recommended daily dose. The product should not be used as a substitute for a varied diet. You should not use the product if you are hypersensitive to any of the ingredients. The formation of deposits in the vial is a natural phenomenon. Only suitable for adults over the age of 18 and not during pregnancy.</p>
+<p>Nu trebuie să depășiți doza zilnică recomandată. Produsul nu trebuie utilizat ca substitut al unei diete variate. Nu trebuie să utilizați produsul dacă sunteți hipersensibil la oricare dintre ingrediente. Formarea de depozite în flacon este un fenomen natural. Potrivit numai pentru adulți cu vârsta de peste 18 ani și nu în timpul sarcinii.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Made in the EU for Natur Bay GmbH</p>
+<p>Fabricat în UE pentru Natur Bay GmbH</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
-<h2>Ingredients/Quantity in a daily portion (30 ml) NRV*</h2>
+<h2>Ingrediente/ Cantitate într-o porție zilnică (30 ml) VNR*</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Collagen 10,000 mg **<br>Vitamin A 121 µg 15%<br>Thiamine (B1) 0.275 mg 25%<br>Riboflavin (B2) 0.434 mg 31%.<br>Niacin (B3) 4.16 mg 26%.<br>Pantothenic acid (B5) 1.5 mg 25%.<br>Vitamin B6 0.406 mg 29 %.<br>Biotin (B7) 13 µg 26%<br>Folic acid (B9) 60 µg 30%<br>Vitamin B12 1.2 µg 48%.<br>Vitamin C 80 mg 100%ig<br>Vitamin D 1.2 µg 24%<br>Vitamin E 3 mg 25%<br>*NRV (Nutrition Reference Values) Reference value for the daily intake of an adult.</p>
+<p>Colagen 10.000 mg **<br>Vitamina A 121 µg 15%<br>Thiamina (B1) 0,275 mg 25%<br>Riboflavină (B2) 0,434 mg 31%.<br>Niacină(B3) 4,16 mg 26%.<br>Acid pantotenic (B5) 1,5 mg 25%.<br>Vitamina B6 0,406 mg 29 %.<br>Biotină (B7) 13 µg 26%<br>Acid folic (B9) 60 µg 30%<br>Vitamina B12 1,2 µg 48%.<br>Vitamina C 80 mg 100%ig<br>Vitamina D 1,2 µg 24%<br>Vitamina E 3 mg 25%<br>*VNR (Valorile Nutriționale de Referință) Valoarea de referință pentru aportul zilnic al unui adult.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>**NRV was not determined</p>
+<p>**VNR nu a fost determinată</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:tablepress/table {"id":"1"} -->
@@ -265,13 +265,13 @@ post_date: 2023-02-20 08:00:00
 <!-- /wp:tablepress/table -->
 
 <!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">*Reference nutritional value for an average adult (8400 kJ / 2000 kcal).</p>
+<p class="has-small-font-size">*Valoarea nutrițională de referință pentru un adult mediu (8400 kJ / 2000 kcal).</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Primabiotic Collagen is available in a <strong>convenient dosage form</strong> (30 shots) that can be consumed immediately. Its composition is simple and natural. Primabiotic Collagen differs from other food supplements by the absence of artificial additives or refined sugars.<br><br>Price per 100 ml, when buying a set of 30 vials á 30 ml : €9.99. <br><br>If you buy a 30-day pack, the price for a daily portion is €2.99.</p>
+<p>Primabiotic Collagen este disponibil într-o <strong>formă de dozare convenabilă</strong> (30 de doze) care poate fi consumată imediat. Compoziția sa este simplă și naturală. Primabiotic Collagen se deosebește de alte suplimente alimentare prin absența aditivilor artificiali sau a zaharurilor rafinate.<br><br>Preț pentru 100 ml, la cumpărarea unui set de 30 flacoane de 30 ml : 9,99 €. <br><br>Dacă cumpărați un pachet suficient pentru 30 de zile, prețul pentru o porție zilnică este de 2,99 euro.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Primabiotic Collagen is a completely natural form of collagen of the highest quality. The hydrolysed form ensures 95% absorption by the body. The product contains naturally occurring sugar. It contains no preservatives or other artificial additives. The first effects are visible after 30 days of supplementation, the best results can be achieved after 3 months of use.</p>
+<p>Primabiotic Collagen este o formă complet naturală de colagen de cea mai înaltă calitate. Forma hidrolizată asigură o absorbție de 95% de către organism. Produsul conține zahăr natural. Nu conține conservanți sau alți aditivi artificiali. Primele efecte sunt vizibile după 30 de zile de administrare a suplimentelor, iar cele mai bune rezultate pot fi obținute după 3 luni de utilizare.</p>
 <!-- /wp:paragraph -->
