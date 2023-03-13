@@ -156,7 +156,7 @@ post_date: 2023-02-20 08:00:00
 <!-- /wp:spacer -->
 
 <!-- wp:heading -->
-<h2>¿Qué hace que Colágeno Primabiotic sea diferente?</h2>
+<h2>Qué hace que Colágeno Primabiotic sea diferente?</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -164,7 +164,7 @@ post_date: 2023-02-20 08:00:00
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>¡Descubra por qué nuestro <strong>Colágeno Primabiotic es la mejor elección</strong>!</p>
+<p>Descubra por qué nuestro <strong>Colágeno Primabiotic es la mejor elección</strong>!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
@@ -222,9 +222,9 @@ post_date: 2023-02-20 08:00:00
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a href="https://primabiotic.de/kann-kollagen-akne-heilen/">¿Puede el colágeno curar el acné?</a></p>
+<p><a href="https://primabiotic.de/kann-kollagen-akne-heilen/">Puede el colágeno curar el acné?</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a href="https://primabiotic.de/kollagen-in-welchen-produkten-ist-es-zu-finden/">Colágeno: ¿en qué productos puede encontrarse?</a></p>
+<p><a href="https://primabiotic.de/kollagen-in-welchen-produkten-ist-es-zu-finden/">Colágeno: en qué productos puede encontrarse?</a></p>
 <!-- /wp:paragraph -->
