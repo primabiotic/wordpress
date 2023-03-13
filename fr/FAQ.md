@@ -1,14 +1,14 @@
 ## FAQ
 
-1. Is shipping always free of charge?
+1. L’expédition est-elle toujours gratuite ?
 
-Shipping within Germany is always free of charge.
+L’expédition en Allemagne est toujours gratuite.
 
-2.	Is it possible to ship abroad?
+2. 	Est-il possible d’expédier à l’étranger ? 
 
-Yes, it is possible to ship abroad.
+Oui, il est possible d’expédier à l’étranger.
 
-3. 3.	What are the shipping costs outside Germany?
+3. 3. 	Quels sont les frais d’expédition en dehors de l’Allemagne ? 
 
-For delivery to the following EU countries, we charge 12.99 EUR / package.
-For orders of 99.00 or higher, shipping is free of charge.
+Pour les livraisons dans les pays de l’UE suivants, nous facturons 12,99 € / colis.
+Pour les commandes de 99,00 € ou plus, l’expédition est gratuite.
