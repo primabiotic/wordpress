@@ -1,14 +1,14 @@
 ## FAQ
 
-1. Is shipping always free of charge?
+1. Transportul maritim este întotdeauna gratuit?
 
-Shipping within Germany is always free of charge.
+Transportul în Germania este întotdeauna gratuit.
 
-2.	Is it possible to ship abroad?
+2.	Este posibilă expedierea în străinătate?
 
-Yes, it is possible to ship abroad.
+Da, este posibil să expediem în străinătate.
 
-3. 3.	What are the shipping costs outside Germany?
+3. 3.	Care sunt costurile de transport în afara Germaniei?
 
-For delivery to the following EU countries, we charge 12.99 EUR / package.
-For orders of 99.00 or higher, shipping is free of charge.
+Pentru livrarea în următoarele țări din UE, percepem 12,99 EUR / pachet.
+Pentru comenzi de 99,00 sau mai mari, transportul este gratuit.
