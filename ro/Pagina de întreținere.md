@@ -5,7 +5,7 @@
 <!-- /wp:image -->
 
 <!-- wp:heading {"textAlign":"center","level":1} -->
-<h1 class="has-text-align-center" id="wp-block-themeisle-blocks-advanced-heading-84bfa495">The website is currently under maintenance</h1>
+<h1 class="has-text-align-center" id="wp-block-themeisle-blocks-advanced-heading-84bfa495">Site-ul este în prezent în revizie</h1>
 <!-- /wp:heading -->
 
 <!-- wp:spacer {"height":"40px"} -->
@@ -13,7 +13,7 @@
 <!-- /wp:spacer -->
 
 <!-- wp:themeisle-blocks/advanced-heading {"id":"wp-block-themeisle-blocks-advanced-heading-a458b450","tag":"p","align":"center","alignTablet":"center","headingColor":"#000000","fontSize":27,"fontSizeMobile":18,"fontFamily":"DM Sans","fontVariant":"normal","fontStyle":"normal"} -->
-<p id="wp-block-themeisle-blocks-advanced-heading-a458b450" class="wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-a458b450">We are currently carrying out some maintenance work on our website to improve your experience when visiting our site. <br>In the meantime, follow us on social media</p>
+<p id="wp-block-themeisle-blocks-advanced-heading-a458b450" class="wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-a458b450">În prezent, efectuăm unele lucrări de întreținere a site-ului nostru web pentru a vă îmbunătăți experiența atunci când vizitați site-ul nostru. <br>Între timp, urmăriți-ne pe rețelele de socializare</p>
 <!-- /wp:themeisle-blocks/advanced-heading -->
 
 <!-- wp:spacer {"height":"40px"} -->
