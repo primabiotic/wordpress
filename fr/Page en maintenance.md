@@ -5,7 +5,7 @@
 <!-- /wp:image -->
 
 <!-- wp:heading {"textAlign":"center","level":1} -->
-<h1 class="has-text-align-center" id="wp-block-themeisle-blocks-advanced-heading-84bfa495">The website is currently under maintenance</h1>
+<h1 class="has-text-align-center" id="wp-block-themeisle-blocks-advanced-heading-84bfa495">Le site Web est actuellement en cours de maintenance</h1>
 <!-- /wp:heading -->
 
 <!-- wp:spacer {"height":"40px"} -->
@@ -13,7 +13,7 @@
 <!-- /wp:spacer -->
 
 <!-- wp:themeisle-blocks/advanced-heading {"id":"wp-block-themeisle-blocks-advanced-heading-a458b450","tag":"p","align":"center","alignTablet":"center","headingColor":"#000000","fontSize":27,"fontSizeMobile":18,"fontFamily":"DM Sans","fontVariant":"normal","fontStyle":"normal"} -->
-<p id="wp-block-themeisle-blocks-advanced-heading-a458b450" class="wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-a458b450">We are currently carrying out some maintenance work on our website to improve your experience when visiting our site. <br>In the meantime, follow us on social media</p>
+<p id="wp-block-themeisle-blocks-advanced-heading-a458b450" class="wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-a458b450">Nous effectuons actuellement des travaux de maintenance sur notre site Web afin d’améliorer votre expérience lors de votre visite sur notre site. <br>En attendant, suivez-nous sur les médias sociaux</p>
 <!-- /wp:themeisle-blocks/advanced-heading -->
 
 <!-- wp:spacer {"height":"40px"} -->
