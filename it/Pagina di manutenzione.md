@@ -4,16 +4,16 @@
 <figure class="wp-block-image aligncenter"><img src="https://primabiotic.de/wp-content/uploads/2022/10/primabiotic-logo_186px.webp" alt="Primabiotic"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:heading {"textAlign":"center","level":1} -->
-<h1 class="has-text-align-center" id="wp-block-themeisle-blocks-advanced-heading-84bfa495">The website is currently under maintenance</h1>
+<!-- wp:heading {"textAlign": "center", "level":1} -->
+<h1 class="has-text-align-center" id="wp-block-themeisle-blocks-advanced-heading-84bfa495">Il sito web è attualmente in manutenzione</h1>.
 <!-- /wp:heading -->
 
-<!-- wp:spacer {"height":"40px"} -->
+<!-- wp:spacer {"height": "40px"} -->
 <div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:themeisle-blocks/advanced-heading {"id":"wp-block-themeisle-blocks-advanced-heading-a458b450","tag":"p","align":"center","alignTablet":"center","headingColor":"#000000","fontSize":27,"fontSizeMobile":18,"fontFamily":"DM Sans","fontVariant":"normal","fontStyle":"normal"} -->
-<p id="wp-block-themeisle-blocks-advanced-heading-a458b450" class="wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-a458b450">We are currently carrying out some maintenance work on our website to improve your experience when visiting our site. <br>In the meantime, follow us on social media</p>
+<!-- wp:themeisle-blocks/advanced-heading {"id": "wp-block-themeisle-blocks-advanced-heading-a458b450", "tag": "p", "align": "center", "alignTablet":"center", "headingColor": "#000000", "fontSize":27, "fontSizeMobile":18, "fontFamily": "DM Sans", "fontVariant": "normal", "fontStyle": "normal"}. -->
+<p id="wp-block-themeisle-blocks-advanced-heading-a458b450" class="wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-a458b450">Stiamo attualmente effettuando alcuni lavori conservativi sul nostro sito web per migliorare la vostra navigazione. <br>Nel frattempo, seguiteci sui social media</p>
 <!-- /wp:themeisle-blocks/advanced-heading -->
 
 <!-- wp:spacer {"height":"40px"} -->
