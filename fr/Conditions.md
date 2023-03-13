@@ -1,111 +1,111 @@
 ## Conditions
 
-General Terms and Conditions and Customer Information I. General Terms and Conditions
-§ 1 Basic provisions
+Conditions générales et informations pour les consommateurs I. Conditions générales
+§ 1 Dispositions de base
 
-1) The following terms and conditions apply to contracts that you enter into with us as a provider (Natur Bay GmbH) via the website https://primabiotic.de. The customer's own conditions may not be included unless otherwise agreed.
+1) Les conditions suivantes s’appliquent aux contrats que vous concluez avec nous en tant que prestataire (Natur Bay GmbH) via le site web https://primabiotic.de. Les conditions propres au consommateur peuvent ne pas être incluses, sauf accord contraire.
 
-(2) In accordance with the following provisions, a consumer is any natural person who enters into a legal transaction for purposes which cannot be predominantly attributed to either his commercial or  independent professional activity. An entrepreneur is any natural or legal entity or a partnership with legal capacity who, when concluding a legal transaction, acts in the exercise of his or her independent professional or commercial activity.
+(2) Conformément aux dispositions suivantes, un consommateur constitue toute personne physique qui conclut un acte juridique à des fins qui ne peuvent être attribuées de manière prédominante à son activité commerciale ou professionnelle indépendante. Un entrepreneur est toute personne physique ou morale ou une société de personnes ayant la capacité juridique qui, lors de la conclusion d’une transaction juridique, agit dans l’exercice de son activité professionnelle ou commerciale indépendante.
 
-2 Conclusion of the contract
-(1) The subject of the contract is selling goods.
-Our offers on the Internet are non-binding and not a binding offer to conclude a contract.
+2 Conclusion du contrat
+(1) L’objet du contrat est la vente de marchandises.
+Nos offres sur Internet sont sans engagement et ne constituent pas une offre contraignante pour conclure un contrat.
 
-(2) You can submit a binding purchase offer (order) via the online shopping cart system.
-Here, the goods meant for purchase are stored in the ‘Shopping cart’. You can use the respective button in the navigation bar to access the “shopping cart” and make changes at any time. After accessing the "checkout" page and entering the personal data and the payment and shipping conditions, all order data are finally displayed again on the order overview page.
-Before submitting the order, you have the option of changing or checking the details in the order overview again (also via the "back" function of the web browser), or cancelling the order.
-When the order is placed using the “place order with liability to pay” button, you submit a binding offer to us.
-You will first receive an automatic e-mail about the receipt of your order, which does not yet lead to the conclusion of the contract.
+(2) Vous pouvez soumettre une offre d’achat contraignante (commande) via le système de panier d’achat en ligne.
+Ici, les marchandises destinées à être achetées sont stockées dans le « Panier ». Vous pouvez utiliser le bouton correspondant dans la barre de navigation pour accéder au « Panier » et effectuer des modifications à tout moment. Après avoir accédé à la page « Paiement » et saisi les données personnelles et les conditions de paiement et d’expédition, toutes les données de la commande sont finalement réaffichées sur la page d’aperçu de la commande.
+Avant de soumettre la commande, vous avez la possibilité de modifier ou de vérifier à nouveau les détails dans l’aperçu de la commande (également via la fonction « retour » du navigateur web), ou d’annuler la commande.
+Lorsque la commande est passée à l’aide du bouton « passer la commande avec obligation de paiement », vous nous soumettez une offre contraignante.
+Vous recevrez d’abord un e-mail automatique sur la réception de votre commande, qui n’entraîne pas encore la conclusion du contrat.
 
-(3) The acceptance of the offer (and thus the conclusion of the contract) takes place within 2 days by confirmation in text form (e.g. e-mail), in which the execution of the order or delivery of the goods is confirmed to you (order confirmation).
-If you have not received such a message, you are no longer bound by your order. In this case, any services that have already been provided will be reimbursed without delay.
+(3) L’acceptation de l’offre (et donc la conclusion du contrat) a lieu dans un délai de 2 jours par une confirmation sous forme de texte (par exemple par e-mail), dans laquelle l’exécution de la commande ou la livraison des marchandises vous est confirmée (confirmation de commande).
+Si vous n’avez pas reçu un tel message, vous n’êtes plus lié par votre commande. Dans ce cas, les services qui ont déjà été fournis seront remboursés sans délai.
 
-(4) The order will be processed and all the necessary contract-related information will be sent by e-mail in a partially automated manner. Therefore, you are required to ensure that the e-mail address you have provided to us is correct, that the receipt of the e-mails is technically guaranteed and, in particular, that it is not prevented by SPAM filters.
+(4) La commande sera traitée et toutes les informations nécessaires relatives au contrat seront envoyées par e-mail de manière partiellement automatisée. Par conséquent, vous êtes tenu de vous assurer que l’adresse e-mail que vous nous avez communiquée est correcte, que la réception des e-mails est techniquement garantie et, en particulier, qu’elle n’est pas empêchée par des filtres SPAM.
 
-3 Special agreements on payment methods offered
+3 Accords spéciaux sur les modes de paiement proposés
 
-(1) Payment via Klarna
+(1) Paiement via Klarna
 
-In cooperation with Klarna Bank AB (publ), Sveavägen 46, 111 34 Stockholm, Sweden, we offer the following payment options. The payment is made to Klarna:
+En coopération avec Klarna Bank AB (publ), Sveavägen 46, 111 34 Stockholm, Suède, nous proposons les modes de paiement suivants. Le paiement est effectué à Klarna :
 
-Instant bank transfer: Available in Germany and Austria. The charge will be processed immediately after placing the order.
+Virement bancaire instantané : Disponible en Allemagne et en Autriche. La facturation sera traitée immédiatement après avoir passé la commande.
 
-Direct debit: The debit will be processed after the goods have been shipped. The time will be communicated to you by e-mail.
+Débit direct : Le débit sera effectué après l’expédition des marchandises. La date vous sera communiquée par e-mail.
 
-The use of the payment methods invoice and/or instalment purchase and/or direct debit requires a positive credit check. In this respect, we pass on your data to Klarna for the purposes of address and credit checks in the context of initiating the purchase and completing the purchase contract. Please understand that we can only offer you those payment methods which are permissible based on the results of the credit check.
+L’utilisation des modes de paiement facture et/ou achat à crédit et/ou débit direct nécessite une vérification réussie de votre solvabilité. À cet égard, nous transmettons vos données à Klarna à des fins de vérification d’adresse et de solvabilité dans le cadre du lancement de l’achat et de l’exécution du contrat d’achat. Nous vous informons que nous ne pouvons vous proposer que les modes de paiement autorisés sur la base des résultats de la vérification de la solvabilité.
 
-Further information and Klarna's terms of use can be found here. You can find general information about Klarna here. Your personal information will be processed by Klarna in accordance with applicable data protection laws and as set out in Klarna's Privacy Policy.
+De plus amples informations et les conditions d’utilisation de Klarna sont disponibles ici. Vous pouvez trouver des informations générales sur Klarna ici. Vos informations personnelles seront traitées par Klarna conformément aux lois applicables en matière de protection des données et comme indiqué dans la politique de confidentialité de Klarna.
 
-You can find more information about Klarna here. You can find the Klarna app here.
-§ 4 Right of retention, reservation of title
-(1) You may only exercise a right of retention if it concerns claims from the same contractual relationship. (2) The goods remain our property until the purchase price has been paid in full.
-§ 5 Warranty
-(1) The statutory rights of liability for defects shall apply.
+Vous pouvez trouver plus d’informations sur Klarna ici. Vous pouvez trouver l’application Klarna ici.
+§ 4 Droit de rétention, réserve de propriété
+(1) Vous ne pouvez exercer un droit de rétention que s’il concerne des créances issues du même rapport contractuel. (2) Les marchandises restent notre propriété jusqu’au paiement intégral du prix d’achat.
+§ 5 Garantie
+(1) Les droits légaux de responsabilité pour les défauts s’appliquent.
 
-(2) As a consumer, you are requested to check the item immediately upon delivery for completeness, obvious defects and transport damage and to notify us and the carrier of any complaints as soon as possible. Failure to do so will have no effect on your statutory warranty claims.
+(2) En tant que consommateur, vous êtes prié de vérifier immédiatement après la livraison que l’article est complet, qu’il ne présente pas de défauts évidents et qu’il n’a pas subi de dommages dus au transport, et de nous signaler toute réclamation dans les plus brefs délais, ainsi qu’au transporteur. Le fait de ne pas le faire n’aura aucun effet sur vos réclamations de garantie légale.
 
-6 Choice of law and proper venue, place of fulfilment, place of jurisdiction
+6 Choix du droit et de la juridiction compétente, lieu d’exécution, juridiction compétente
 
-(1) German law shall apply. This choice of law and proper venue only applies to customers if it does not result in the revocation of the protection guaranteed by the mandatory provisions of the law of the country in which the respective customer’s usual place of residence is located (benefit-of-the-doubt principle).
+(1) Le droit allemand est applicable. Cette élection de droit et de for ne s’applique aux consommateurs que si elle n’entraîne pas la révocation de la protection garantie par les dispositions impératives du droit du pays dans lequel se trouve le lieu de résidence habituel du consommateur concerné (principe du bénéfice du doute).
 
-(2) The place of fulfilment for all services arising from the business relations with us and the place of jurisdiction shall be our registered office if you are not a consumer but a merchant, a legal entity or a special fund under public law.
-The same condition applies to situations in which you are not associated with a general place of jurisdiction in Germany or the EU, as well as situations in which the place of residence or the usual place of residence is not known at the time of commencing proceedings. The right to initiate legal proceedings at another statutory place of jurisdiction shall remain unaffected by this.
+(2) Le lieu d’exécution de tous les services découlant des relations commerciales avec nous et le lieu de juridiction est notre siège social si vous n’êtes pas un consommateur mais un commerçant, une personne morale ou un fonds spécial de droit public.
+La même condition s’applique aux situations dans lesquelles vous n’êtes pas associé à un lieu de juridiction générale en Allemagne ou dans l’UE, ainsi qu’aux situations dans lesquelles le lieu de résidence ou le lieu de résidence habituel n’est pas connu au moment de l’ouverture de la procédure. Le droit d’engager une procédure judiciaire auprès d’une autre juridiction légale n’est pas affecté par cette disposition.
 
-(3) The provisions of the UN Convention on Contracts for the International Sale of Goods shall expressly not apply.
+(3) Les dispositions de la Convention des Nations Unies sur les contrats de vente internationale de marchandises ne sont expressément pas applicables.
 
-Customer information
+Informations sur le client
 
-Identity of the seller
+Identité du vendeur
 
 Natur Bay GmbH
-drepresented by the Managing Director Natalia Kalka a 
+représentée par la directrice générale Natalia Kalka 
 Wirtsleiten 5, Walkertshofen
 84091 Attenhofen
-Germany
-E-Mail: kontakt@naturbay.de
+Allemagne
+E-Mail : kontakt@naturbay.de
 
-Alternative Dispute Resolution:
+Résolution extrajudiciaire des litiges :
 
-The European Commission provides a platform for the out-of-court settlement of disputes online (ODR platform), which can be accessed at  https://ec.europa.eu/odr.
+La Commission européenne met à disposition une plateforme de règlement extrajudiciaire des litiges en ligne (plateforme RLL), accessible à l’adresse https://ec.europa.eu/odr.
 
-Legal questions about concluding the contract
+Questions juridiques concernant la conclusion du contrat
 
-The technical steps for the conclusion of the contract, the conclusion of the contract itself and the possibilities of correction are carried out in accordance with the regulations "Conclusion of the Contract" of our General Terms and Conditions (Part I.).
+Les étapes techniques pour la conclusion du contrat, la conclusion du contrat lui-même et les possibilités de correction sont effectuées conformément aux règles « Conclusion du contrat » de nos conditions générales (partie I.).
 
-Contract language, storage of the contract text
+Langue du contrat, stockage du texte du contrat
 
-3.1 The contractual language is German.
+3.1 La langue du contrat est l’allemand.
 
-3.2 We do not store the complete wording of the contract. Before sending the order via the online shopping cart system, the contract data can be printed out or electronically saved using the browser’s print function. 
+3.2 Nous ne conservons pas le libellé complet du contrat. Avant d’envoyer la commande via le système de panier en ligne, les données du contrat peuvent être imprimées ou enregistrées électroniquement à l’aide de la fonction d’impression du navigateur. 
 
-After you place an order with us, the order data, the legally required information for mail order sales and the General Terms and Conditions will be sent to you again by e-mail.
+Après avoir passé une commande chez nous, les données de la commande, les informations légalement requises pour la vente par correspondance et les conditions générales vous seront à nouveau envoyées par e-mail.
 
-Key characteristics of the goods or service
+Caractéristiques essentielles des biens ou services
 
-The essential characteristics of the goods and/or services can be found in the respective offer.
+Les caractéristiques essentielles des biens et/ou services peuvent être trouvées dans l’offre respective.
 
-Prices and payment methods
+Prix et modes de paiement
 
-5.1. The prices mentioned in the respective offers represent total prices, as do the shipping costs. They include all the price components, including all the incidental taxes.
+5.1. Les prix mentionnés dans les offres respectives représentent des prix totaux, de même que les frais d’expédition. Ils comprennent tous les éléments du prix, y compris toutes les taxes accessoires.
 
-5.2. The shipping costs incurred are not included in the purchase price. They are accessed via a correspondingly designated button on our website or in the respective offer, are reported separately during the order process and, in addition, are payable by you unless delivery is offered free of charge.
+5.2. Les frais d’expédition encourus ne sont pas inclus dans le prix d’achat. Ils sont accessibles via un bouton désigné à cet effet sur notre site Web ou dans l’offre respective, sont signalés séparément lors du processus de commande et sont en outre à votre charge, sauf si la livraison est offerte.
 
-5.3. If the delivery is made to countries outside the European Union, further costs may be incurred for which we are not responsible, such as customs duties, taxes or money transfer fees (transfer or exchange rate fees of credit institutions), which are to be borne by you.
+5.3. Si la livraison est effectuée dans des pays situés en dehors de l’Union européenne, il se peut que des frais supplémentaires soient encourus, dont nous ne sommes pas responsables, tels que des droits de douane, des taxes ou des frais de transfert d’argent (frais de transfert ou de taux de change des établissements de crédit), qui sont à votre charge.
 
-5.4. Any costs incurred for the transfer of money (transfer fees or exchange rate fees of credit institutions) shall be borne by you in cases where the delivery is made to an EU member state but the payment was initiated outside the European Union.
+5.4. Tous les frais encourus pour le transfert d’argent (frais de transfert ou frais de taux de change des établissements de crédit) sont à votre charge dans les cas où la livraison est effectuée dans un État membre de l’Union européenne mais que le paiement a été initié en dehors de l’Union européenne.
 
-5.5. The payment methods available to you are shown under a correspondingly designated button on our website or in the respective offer.
+5.5. Les modes de paiement à votre disposition sont indiqués sous un bouton correspondant sur notre site Web ou dans l’offre respective.
 
-5.6. Unless otherwise stated in the individual payment methods, the payment claims arising from the concluded contract are due for payment immediately.
+5.6. Sauf mention contraire dans les différents modes de paiement, les créances résultant du contrat conclu sont immédiatement exigibles.
 
-Terms of delivery
+Conditions de livraison
 
-6.1. The terms of delivery, the delivery date and, if applicable, existing delivery restrictions can be found under a correspondingly designated button on our website or in the respective offer.
+6.1. Les conditions de livraison, la date de livraison et, le cas échéant, les restrictions de livraison existantes sont indiquées sous un bouton correspondant sur notre site Web ou dans l’offre respective.
 
-6.2.If you are a consumer, the following is statutorily regulated: The risk of the sold item accidentally being destroyed or degraded during shipping only passes over to you when the item in question is delivered. This condition does not apply if you have independently commissioned a transport company that has not been specified by us, or a person who has otherwise been appointed to execute the shipping operation.
+6.2 Si vous êtes un consommateur, ce qui suit est réglementé par la loi : Le risque de destruction ou de dégradation accidentelle de l’objet vendu pendant le transport ne vous est transféré que lors de la livraison de l’objet en question. Cette condition ne s’applique pas si vous avez mandaté de manière indépendante une entreprise de transport qui n’a pas été spécifiée par nous, ou une personne qui a été désignée d’une autre manière pour exécuter l’opération d’expédition.
 
-Statutory liability for defects
+Responsabilité légale pour les défauts
 
-Liability for defects is governed by the "Warranty" provision in our General Terms and Conditions (Part I).
+La responsabilité pour les défauts est régie par la disposition « Garantie » de nos Conditions générales (Partie I).
 
-These SBTs and customer details were created by lawyers specialising in IT law who work for the Händlerbund [e-commerce association], and are constantly checked for legal conformity. Händlerbund Management AG guarantees the legal security of the texts and is liable in case of warnings. For more information, please visit: https://www.haendlerbund.de/de/leistungen/rechtssicherheit/agb- service.
+Ces SBT et les données relatives aux clients ont été créés par des juristes spécialisés dans le droit informatique qui travaillent pour le Händlerbund [association de commerce électronique], et leur conformité juridique est constamment contrôlée. Händlerbund Management AG garantit la sécurité juridique des textes et est responsable en cas d’avertissements. Pour plus d’informations, veuillez consulter : https://www.haendlerbund.de/de/leistungen/rechtssicherheit/agb- service.
