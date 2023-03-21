@@ -1,8 +1,10 @@
 ---
 title: Primabiotic Collagen x30
 comment_status: closed
-price: 69.99
+post_status: draft
 post_date: 2023-02-20 08:00:00
+custom_fields:
+    _regular_price: 69.99
 ---
 
 <!-- wp:columns -->
