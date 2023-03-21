@@ -3,7 +3,8 @@ title: Primabiotic Collagen x30
 comment_status: closed
 post_date: 2023-02-20 08:00:00
 custom_fields:
-    _regular_price: £69.99
+    _regular_price: 69.99
+    price: 69.99
     _sku: collagen_30_uk
 ---
 
