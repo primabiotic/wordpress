@@ -1,5 +1,5 @@
 ---
-title: Primabiotic Collagen (Paket: 30 Glasflaschen)
+title: "Primabiotic Collagen (Paket: 30 Glasflaschen)"
 comment_status: closed
 post_date: 2023-02-20 08:00:00
 ---
