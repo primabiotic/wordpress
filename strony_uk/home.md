@@ -1,9 +1,9 @@
 <!-- wp:image {"align":"wide","id":4602,"sizeSlug":"full","linkDestination":"custom","className":"main-desktop-banner"} -->
-<figure class="wp-block-image alignwide size-full main-desktop-banner"><a href="https://new.primabiotic.co.uk/produkt/primabiotic-collagen/"><img src="https://primabiotic.de/wp-content/uploads/2023/02/banner-1280x550_collagen.png" alt="" class="wp-image-4602"/></a></figure>
+<figure class="wp-block-image alignwide size-full main-desktop-banner"><a href="https://new.primabiotic.co.uk/product/primabiotic-collagen/"><img src="https://primabiotic.de/wp-content/uploads/2023/02/banner-1280x550_collagen.png" alt="" class="wp-image-4602"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"align":"wide","id":4604,"sizeSlug":"full","linkDestination":"custom","className":"main-mobile-banner"} -->
-<figure class="wp-block-image alignwide size-full main-mobile-banner"><a href="https://new.primabiotic.co.uk/produkt/primabiotic-collagen/"><img src="https://primabiotic.de/wp-content/uploads/2023/02/banner-686x556_collagen.png" alt="" class="wp-image-4604"/></a></figure>
+<figure class="wp-block-image alignwide size-full main-mobile-banner"><a href="https://new.primabiotic.co.uk/product/primabiotic-collagen/"><img src="https://primabiotic.de/wp-content/uploads/2023/02/banner-686x556_collagen.png" alt="" class="wp-image-4604"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:columns {"align":"wide","className":"second-main-section"} -->
@@ -55,7 +55,7 @@ and in harmony with nature - that is what we at Primabiotic stand for!</p>
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":5221,"sizeSlug":"full","linkDestination":"custom","className":"main-desktop-banner"} -->
-<figure class="wp-block-image size-full main-desktop-banner"><a href="https://new.primabiotic.co.uk/produkt/primabiotic-collagen/"><img src="https://primabiotic.de/wp-content/uploads/2023/02/primabiotic-d.jpg" alt="collagen" class="wp-image-5221"/></a></figure>
+<figure class="wp-block-image size-full main-desktop-banner"><a href="https://new.primabiotic.co.uk/product/primabiotic-collagen/"><img src="https://primabiotic.de/wp-content/uploads/2023/02/primabiotic-d.jpg" alt="collagen" class="wp-image-5221"/></a></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->

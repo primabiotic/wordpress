@@ -8,7 +8,7 @@ post_date: 2023-02-20 08:00:00
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><em>We have covered collagen before! → <strong><a href="https://primabiotic.de/kollagen-haeufig-gestellte-fragen/">here!</a></strong></em></p>
+<p><em>We have covered collagen before! → <strong><a href="https://new.primabiotic.co.uk/product/primabiotic-collagen//">here!</a></strong></em></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -84,7 +84,7 @@ post_date: 2023-02-20 08:00:00
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>If you&#39;ve asked yourself the question<a href="https://primabiotic.de/kollagen-haeufig-gestellte-fragen/">&quot;Collagen - is it worth it?&quot;</a> now know at least </p>
+<p>If you&#39;ve asked yourself the question<a href="https://new.primabiotic.co.uk/product/primabiotic-collagen/">&quot;Collagen - is it worth it?&quot;</a> now know at least </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

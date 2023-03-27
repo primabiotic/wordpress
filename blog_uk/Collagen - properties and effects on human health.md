@@ -218,13 +218,5 @@ post_date: 2023-02-20 08:00:00
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a href="https://primabiotic.de/6-gruende-fuer-die-verwendung-von-kollagen/">6 reasons to use collagen</a>!</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><a href="https://primabiotic.de/kann-kollagen-akne-heilen/">Can collagen cure acne?</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><a href="https://primabiotic.de/kollagen-in-welchen-produkten-ist-es-zu-finden/">Collagen - in which products can it be found?</a></p>
+<p><a href="https://new.primabiotic.co.uk/6 reasons to use collagen/">6 reasons to use collagen</a>!</p>
 <!-- /wp:paragraph -->

@@ -3,7 +3,7 @@
 General Terms and Conditions and Customer Information I. General Terms and Conditions
 § 1 Basic provisions
 
-1) The following terms and conditions apply to contracts that you enter into with us as a provider (Natur Bay GmbH) via the website https://primabiotic.de. The customer's own conditions may not be included unless otherwise agreed.
+1) The following terms and conditions apply to contracts that you enter into with us as a provider (Natur Bay GmbH) via the website https://primabiotic.co.uk. The customer's own conditions may not be included unless otherwise agreed.
 
 (2) In accordance with the following provisions, a consumer is any natural person who enters into a legal transaction for purposes which cannot be predominantly attributed to either his commercial or  independent professional activity. An entrepreneur is any natural or legal entity or a partnership with legal capacity who, when concluding a legal transaction, acts in the exercise of his or her independent professional or commercial activity.
 

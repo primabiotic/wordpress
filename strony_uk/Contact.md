@@ -9,7 +9,7 @@
 <!-- /wp:contact-form-7/contact-form-selector -->
 
 <!-- wp:paragraph -->
-<p>By providing your e-mail address, you agree that the data you enter may be processed by Natur Bay GmbH for the purpose of contacting you. For more information, please see our privacy policy which you can access  <a href="https://primabiotic.de/datenschutzerklaerung/">here</a>.</p>
+<p>By providing your e-mail address, you agree that the data you enter may be processed by Natur Bay GmbH for the purpose of contacting you. For more information, please see our privacy policy which you can access  <a href="https://new.primabiotic.co.uk/Privacy policy/">here</a>.</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
