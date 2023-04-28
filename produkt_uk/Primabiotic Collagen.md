@@ -103,7 +103,7 @@ custom_fields:
 <!-- /wp:columns -->
 
 <!-- wp:heading -->
-<h2>Why Primabiotic Collagennn?</h2>
+<h2>Why Primabiotic Collagen?</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
