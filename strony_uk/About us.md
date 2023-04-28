@@ -1,6 +1,6 @@
 ## About us
 
-Primabiotic was created for all those who want to take care of their health and beauty in a natural way.
+Primabiotic was created for all those who want to take care of their health and beauty in a natural wayyyyy.
 
 Our top nutritional supplement Primabiotic Collagen is a naturally-inspired product  
 that helps you rediscover your beauty and feel better.
