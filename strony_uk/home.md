@@ -1,15 +1,11 @@
-<!-- wp:image {"align":"wide","id":4602,"sizeSlug":"full","linkDestination":"custom","className":"main-desktop-banner"} -->
-<figure class="wp-block-image alignwide size-full main-desktop-banner"><a href="https://new.primabiotic.co.uk/product/primabiotic-collagen/"><img src="https://primabiotic.de/wp-content/uploads/2023/02/banner-1280x550_collagen.png" alt="" class="wp-image-4602"/></a></figure>
-<!-- /wp:image -->
-
-<!-- wp:image {"align":"wide","id":4604,"sizeSlug":"full","linkDestination":"custom","className":"main-mobile-banner"} -->
-<figure class="wp-block-image alignwide size-full main-mobile-banner"><a href="https://new.primabiotic.co.uk/product/primabiotic-collagen/"><img src="https://primabiotic.de/wp-content/uploads/2023/02/banner-686x556_collagen.png" alt="" class="wp-image-4604"/></a></figure>
-<!-- /wp:image -->
+<!-- wp:shortcode -->
+[nikoslider]
+<!-- /wp:shortcode -->
 
 <!-- wp:columns {"align":"wide","className":"second-main-section"} -->
 <div class="wp-block-columns alignwide second-main-section"><!-- wp:column {"width":"60%"} -->
 <div class="wp-block-column" style="flex-basis:60%"><!-- wp:heading {"level":1} -->
-<h1>Primabiotic Collagen</h1>
+<h1 class="wp-block-heading">Primabiotic Collagen</h1>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"style":{"typography":{"fontSize":"25px"}}} -->
@@ -36,7 +32,7 @@ The first effects can already be seen after one month, and you can expect clear 
 <!-- /wp:spacer -->
 
 <!-- wp:shortcode -->
-[products ids=50 limit=1 columns=1]
+[products ids=160 limit=1 columns=1]
 <!-- /wp:shortcode --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -139,7 +135,7 @@ and in harmony with nature - that is what we at Primabiotic stand for!</p>
 <!-- /wp:spacer -->
 
 <!-- wp:heading {"textAlign":"center","style":{"typography":{"fontStyle":"normal","fontWeight":"300"}}} -->
-<h2 class="has-text-align-center" style="font-style:normal;font-weight:300">The effects speak for themselves:</h2>
+<h2 class="wp-block-heading has-text-align-center" style="font-style:normal;font-weight:300">The effects speak for themselves:</h2>
 <!-- /wp:heading -->
 
 <!-- wp:columns -->
