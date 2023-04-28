@@ -5,7 +5,7 @@ post_date: 2023-03-21 08:00:00
 custom_fields:
     _sku: collagen_30_uk
 ---
-test4
+
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"align":"center","id":1757,"sizeSlug":"full","linkDestination":"none"} -->
